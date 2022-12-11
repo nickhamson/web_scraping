@@ -1,2 +1,5 @@
 apikeys
 .cache
+.Rproj.user
+.Rhistory
+web_scraping.Rproj
