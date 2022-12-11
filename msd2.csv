@@ -1,0 +1,502 @@
+,name,Album,Category,Danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,id,duration_ms,time_signature
+0,Heroes - planningtorock Remix,Reprise - Remixes,Remix,0.483,0.978,4,-4.76,0,0.0484,0.000232,0.606,0.112,0.752,124.009,3d5AEtmwhwm9Sq0VWSK5qJ,267229,4
+1,Porcelain - Christian Löffler Remix,Reprise - Remixes,Remix,0.616,0.34,4,-13.648,0,0.0298,0.34,0.727,0.127,0.33,92.01,1o9e4RnIIbc9qhS0BszyjJ,232358,4
+2,Go - Moby's Trophy Remix,Reprise - Remixes,Remix,0.608,0.89,4,-9.753,0,0.0538,0.0776,0.882,0.0908,0.233,124.996,7uHV6bXy6L7cwEDNsfdyUh,355293,4
+3,Porcelain - Bambounou Remix,Reprise - Remixes,Remix,0.483,0.85,2,-7.501,1,0.049,0.034,0.82,0.138,0.516,160.026,4VQjSJF6TGtJxHo7Tg8Li8,317569,4
+4,Go - Anfisa Letyago Remix,Reprise - Remixes,Remix,0.674,0.958,11,-6.167,0,0.0404,0.00054,0.897,0.107,0.536,126.989,2DILDB3AW4KcxN1zyOVw3s,338741,4
+5,Why Does My Heart Feel So Bad - Biscits Remix,Reprise - Remixes,Remix,0.683,0.914,9,-8.654,0,0.0448,0.0226,0.259,0.653,0.504,123.974,4vRM94cMCGG5YQ4Vu9ZXUz,211417,4
+6,Natural Blues - Topic Remix,Reprise - Remixes,Remix,0.612,0.748,11,-6.59,0,0.0348,0.00535,0.0726,0.103,0.419,121.999,6ib63FzQmUCdXVSRY6S7nH,162952,4
+7,Lift Me Up - Mathame Remix,Reprise - Remixes,Remix,0.698,0.692,11,-8.575,1,0.0389,0.00087,0.89,0.0974,0.0711,127.005,5yKZzrBNUmLh5rtBIaHk7p,421979,4
+8,We Are All Made Of Stars - Moby's Ac@n Remix,Reprise - Remixes,Remix,0.489,0.7,7,-6.418,1,0.0309,0.14,0.00158,0.12,0.0398,95.028,3FxrDNFDUOx8MDlnCx1WhZ,274094,4
+9,Porcelain - Efdemin Remix,Reprise - Remixes,Remix,0.591,0.733,11,-9.624,0,0.0269,0.0276,0.824,0.104,0.413,134.028,2ODojLocP3dUdKKqvu2Vek,347909,4
+10,Porcelain - Efdemin Dub,Reprise - Remixes,Remix,0.631,0.176,11,-13.46,0,0.032,0.758,0.859,0.0974,0.338,92.04,4di24joDHWkbWfpwKSjXBL,389268,4
+11,Natural Blues - Moby's West Side Highway Remix,Reprise - Remixes,Remix,0.634,0.796,11,-5.231,0,0.044,0.388,0.00036,0.0803,0.664,113.993,3GaCSIfcHDhfpLPgCCDF61,330718,4
+12,Extreme Ways - Felsmann + Tiley Reinterpretation,Reprise - Remixes,Remix,0.554,0.601,9,-7.878,0,0.0273,0.497,0.886,0.0813,0.16,109.98,7APbJSq6oTOL8ucJhCCP39,202598,4
+13,Natural Blues - Max Cooper Remix,Reprise - Remixes,Remix,0.562,0.938,4,-8.241,0,0.038,0.000238,0.769,0.0919,0.0326,121.004,5ThYTaKicsYvR8R5wcEON4,315451,3
+14,The Great Escape - Moby's Observatory Remix,Reprise - Remixes,Remix,0.246,0.309,7,-10.087,1,0.0357,0.686,0.145,0.0982,0.0487,117.807,3bk7bpDJ6obeAcGilxAgSd,446572,4
+15,Extreme Ways - Peter Gregson Remix,Reprise - Remixes,Remix,0.186,0.34,9,-11.703,0,0.031,0.269,0.000532,0.0913,0.0383,94.567,0tVeh8H3gn9CubIEasMKrc,289057,5
+16,Why Does My Heart Feel So Bad - Biscits Remix / Extended,Reprise - Remixes,Remix,0.8,0.909,9,-8.505,1,0.062,0.00136,0.651,0.0931,0.78,123.993,6L4nycMiZMHPYmN8kBmwe7,346615,4
+17,Natural Blues - Topic Remix / Extended,Reprise - Remixes,Remix,0.72,0.594,11,-6.894,0,0.0361,0.00125,0.24,0.157,0.446,122.011,5uw1iVlpyjlyy0HH9hMtYx,223913,4
+18,Natural Blues - Max Cooper Remix / Radio Edit,Reprise - Remixes,Remix,0.568,0.93,4,-7.479,0,0.0389,0.000148,0.86,0.119,0.0314,121.008,06H3FL9U0ilLtE5XoZ6R0C,231013,3
+19,Extreme Ways - Peter Gregson Remix / Instrumental Version,Reprise - Remixes,Remix,0.0601,0.24,9,-13.759,0,0.0461,0.0628,0.876,0.0954,0.0291,61.812,3kzp0FbMN0LVTNhQjgzr1M,288341,3
+20,Everloving - Reprise Version,Reprise,Studio,0.386,0.27,9,-11.958,0,0.0319,0.172,0.903,0.114,0.0769,143.96,3sZRuiyycE0wfBJ89nrWQf,199071,4
+21,Natural Blues - Reprise Version,Reprise,Studio,0.508,0.722,11,-6.763,0,0.033,0.00728,0.00106,0.142,0.277,113.995,6171kZZWuy1rr6BNNWAxCd,270025,4
+22,Go - Reprise Version,Reprise,Studio,0.623,0.749,4,-10.282,0,0.0602,0.0196,0.851,0.114,0.0746,125.025,47fOhgGFdVbwonkUCFZShQ,222940,4
+23,Porcelain - Reprise Version,Reprise,Studio,0.413,0.252,11,-13.031,0,0.0291,0.561,0.516,0.113,0.0536,91.925,3sR3H4iuy9y1O8ETVFlemU,353878,4
+24,Extreme Ways - Reprise Version,Reprise,Studio,0.385,0.346,9,-8.417,0,0.0303,0.482,0.00247,0.0876,0.193,85.007,5vLzWnQ9Ah9F0d1okSe3xV,298589,4
+25,Heroes - Reprise Version,Reprise,Studio,0.342,0.0951,7,-14.093,1,0.0313,0.881,0.0524,0.126,0.0571,80.062,1OgNrfu9S62Ck2Dvh87Y0S,317789,1
+26,God Moving Over the Face of The Waters - Reprise Version,Reprise,Studio,0.0728,0.192,7,-14.656,1,0.0395,0.641,0.885,0.106,0.0386,77.031,4srUIHsrWiuUEMa69PUyvw,461678,3
+27,Why Does My Heart Feel So Bad - Reprise Version,Reprise,Studio,0.168,0.333,7,-12.152,1,0.0314,0.157,0.000135,0.117,0.0822,87.956,4h6KlJJRdxR9CmXY5ibKAm,278356,4
+28,The Lonely Night - Reprise Version,Reprise,Studio,0.204,0.287,0,-13.811,1,0.0292,0.278,0.00231,0.11,0.0951,89.123,1RvndHj1xvKJVfe32aKgIv,342857,4
+29,We Are all Made of Stars - Reprise Version,Reprise,Studio,0.43,0.308,4,-9.914,0,0.0284,0.84,0.00213,0.0795,0.039,95.015,4kdU7bqNO7IOgB9QjenYRf,360726,4
+30,Lift Me Up - Reprise Version,Reprise,Studio,0.434,0.375,4,-11.022,0,0.0377,0.0839,0.00976,0.0971,0.0528,119.639,2eYmPqheuSib8ThpFoyqgl,322358,4
+31,The Great Escape - Reprise Version,Reprise,Studio,0.386,0.158,7,-15.432,1,0.029,0.848,0.00209,0.113,0.1,91.534,7b2qmIQZX4QNkXaITVN0er,171276,5
+32,Almost Home - Reprise Version,Reprise,Studio,0.391,0.357,2,-8.807,1,0.027,0.184,0.0,0.0914,0.0621,97.98,3PnRb6whMtPKIg2zfKmOHg,327679,4
+33,The Last Day - Reprise Version,Reprise,Studio,0.267,0.317,5,-9.853,1,0.0304,0.118,0.00484,0.118,0.0381,98.642,3w7LCKxf3MTdG5iPwj9Q0H,312958,4
+34,Live Ambient 1,"Live Ambient Improvised Recordings, Vol. 1",Ambient,0.3,0.00926,11,-28.716,0,0.0487,0.989,0.918,0.0837,0.0757,70.282,4mSSBF3JYiNO1JX8giao1d,651587,3
+35,Live Ambient 2,"Live Ambient Improvised Recordings, Vol. 1",Ambient,0.125,0.0116,11,-33.705,1,0.0428,0.577,0.94,0.0782,0.0331,82.824,2PTNtcoDYlFDIU5ldol8GC,611893,4
+36,Live Ambient 3,"Live Ambient Improvised Recordings, Vol. 1",Ambient,0.21,0.0293,4,-27.07,1,0.0377,0.988,0.965,0.0724,0.0376,140.907,5fM1j5Qacw1HSXzKQOixIX,608240,4
+37,Live Ambient 4,"Live Ambient Improvised Recordings, Vol. 1",Ambient,0.135,0.0641,9,-26.653,1,0.0381,0.955,0.814,0.373,0.0306,144.418,4xwZT7413qIwZEXWL3mnFv,693307,4
+38,Live Ambient 5,"Live Ambient Improvised Recordings, Vol. 1",Ambient,0.142,0.186,2,-18.703,1,0.0365,0.846,0.905,0.204,0.0389,147.731,1XFPx69InZp4HFwEDJ5Eda,557373,4
+39,Live Ambient 6,"Live Ambient Improvised Recordings, Vol. 1",Ambient,0.196,0.00375,2,-31.352,0,0.0436,0.946,0.953,0.105,0.074,73.057,6cvlDKCkpxgjp8TEi0OrIZ,536947,3
+40,Live Ambient 7,"Live Ambient Improvised Recordings, Vol. 1",Ambient,0.12,0.0306,9,-28.282,0,0.0432,0.964,0.954,0.0876,0.0348,73.203,0rnwHUVezjH7ovKVRhkJ5e,583547,3
+41,Live Ambient 8,"Live Ambient Improvised Recordings, Vol. 1",Ambient,0.225,0.00808,2,-29.825,1,0.047,0.944,0.851,0.0954,0.0313,61.726,6sIDaDtNWydboSKd3rnOWV,415293,5
+42,Live Ambient 9,"Live Ambient Improvised Recordings, Vol. 1",Ambient,0.183,0.0447,2,-27.063,1,0.0516,0.885,0.925,0.212,0.0357,72.946,6CqdSqzD0NIW84sbYUwFY8,483840,4
+43,Live Ambient 10,"Live Ambient Improvised Recordings, Vol. 1",Ambient,0.173,0.0471,7,-30.939,1,0.0569,0.858,0.796,0.12,0.0956,137.214,1pzaCqPYnGUKBkQxqroMMb,1632547,4
+44,Power is Taken - (Moby's Old School Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.539,0.954,0,-6.861,1,0.0451,0.00295,0.0905,0.102,0.363,128.214,5hMFpW8BCtGTTg6WC6N5HN,294294,4
+45,Rise Up In Love - (Moby's Ecstatic Piano Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.52,0.914,9,-6.834,0,0.0608,0.0243,0.279,0.201,0.22,128.099,01dsxmc9mZRycNqdrrNZiz,271678,4
+46,Morningside - (Expansive Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.566,0.791,9,-8.414,0,0.0343,0.00441,0.738,0.35,0.194,128.244,6vrASeueIjCUKMfDeFSgN7,299363,4
+47,Refuge - (Chris Paul & Raul Campos Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.58,0.949,11,-9.03,0,0.0691,0.00557,0.574,0.251,0.329,128.208,7aUIS1wuBPWTW4XkfU94Zx,285584,4
+48,My Only Love (feat. Mindy Jones) - (Vintage Culture Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.556,0.877,4,-9.804,0,0.0484,0.00104,0.735,0.161,0.282,128.193,25hGfgEc1vBwZoPmcJYIxl,268541,4
+49,Forever - (Voodoo Child Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.439,0.906,4,-6.426,0,0.055,0.00206,0.969,0.308,0.116,128.31,3oj388VpkUgBgKI2czMJd4,202818,4
+50,Power Is Taken - (Felguk Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.652,0.936,11,-7.19,0,0.0498,0.00376,0.682,0.327,0.106,128.17,5i4dcYJjNkdEdGMVumG2uL,292189,4
+51,Morningside - (Henry Fong Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.621,0.989,0,-6.294,1,0.0854,0.0201,0.769,0.681,0.183,128.086,3zG4xtBTkgQqpNe2nfaJTv,108404,4
+52,My Only Love (feat. Mindy Jones) - (Tale Of Us & Anyma Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.6,0.779,11,-12.359,1,0.0451,0.00847,0.902,0.338,0.093,128.172,4VSNOAwQfMUjXWQyMoPwmd,189775,4
+53,Too Much Change - (Analog remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.505,0.508,2,-11.582,1,0.0304,0.224,0.356,0.204,0.14,122.126,1vw2WdejDpuhaydFaijVV7,387232,4
+54,Refuge - (Mind Against's Dub mix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.381,0.632,11,-12.776,0,0.0575,0.00842,0.829,0.134,0.0552,125.949,3L2BUkiG5FYPFwoqMPDv9G,357525,4
+55,Morningside - (DJ Boring's Escape Mix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.772,0.765,8,-9.689,1,0.106,0.139,0.892,0.122,0.232,126.064,4hq7qwTX03xCQGWKyzUxzt,177073,4
+56,My Only Love (feat. Mindy Jones) - (DJ Poolboi Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.649,0.895,4,-9.533,0,0.0472,0.00915,0.92,0.108,0.208,125.816,5Iq6YBuJoQWpdnLY3eo3JX,245872,4
+57,Tecie - (Mind Against's Celestial Remix) [Mixed],All Visible Objects [Remixed : DJ Set],Remix,0.658,0.845,6,-8.06,1,0.0739,0.000372,0.126,0.109,0.643,125.074,7q7b6wqECfY2RaraUK2R0l,239481,4
+58,Morningside,All Visible Objects,Studio,0.597,0.789,9,-7.282,0,0.0405,0.0958,0.924,0.348,0.146,125.431,2jPOcaXTD1Ax1oZTEwDKCI,331040,4
+59,My Only Love (feat. Mindy Jones),All Visible Objects,Studio,0.457,0.653,4,-6.016,0,0.0338,0.195,0.775,0.0987,0.231,124.98,702tfKCvQvvP9IbYzgRirO,344520,3
+60,Refuge,All Visible Objects,Studio,0.634,0.819,4,-8.601,0,0.0493,0.382,0.476,0.337,0.204,125.989,31C8AK9UOvDaKfkuRO5B0s,344707,4
+61,One Last Time,All Visible Objects,Studio,0.571,0.454,2,-8.655,0,0.0292,0.196,0.954,0.109,0.457,118.012,3dbEPcCbpCSISMmbeZo1cz,333653,4
+62,Power Is Taken,All Visible Objects,Studio,0.596,0.799,10,-5.219,0,0.0446,0.00175,0.601,0.115,0.215,129.029,0xaHJR2A5Drp5vqBYsD6vu,347747,4
+63,Rise Up In Love,All Visible Objects,Studio,0.497,0.679,9,-7.081,0,0.0371,0.52,0.293,0.196,0.172,124.018,3CvzVNK1XTx8Y5cMUzBZ4M,347347,4
+64,Forever,All Visible Objects,Studio,0.398,0.539,4,-8.613,0,0.0347,0.00608,0.954,0.0972,0.167,126.222,56bhslk1XERMiG4QwWW8q4,317467,4
+65,Too Much Change,All Visible Objects,Studio,0.308,0.457,2,-8.792,1,0.0365,0.59,0.399,0.0871,0.103,120.224,6ggXImjQ9iFZGzNV9wYIM1,586573,4
+66,Separation,All Visible Objects,Studio,0.173,0.178,4,-15.369,0,0.046,0.973,0.852,0.0946,0.0366,76.845,627R73QOfmp9yIS81jNvwe,401600,3
+67,Tecie,All Visible Objects,Studio,0.518,0.813,9,-7.001,0,0.0511,0.0603,0.956,0.108,0.449,120.003,1JfrfxZVGrtYjbOplPWL9O,452680,4
+68,All Visible Objects,All Visible Objects,Studio,0.195,0.44,0,-9.29,1,0.0377,0.814,0.835,0.109,0.0394,112.281,0yWDWypgABszaOkTLuEmh6,557080,4
+69,LA12,Long Ambients Two,Ambient,0.0742,0.0238,4,-28.525,1,0.0481,0.83,0.709,0.126,0.0328,174.848,53Ax4MEWeAguo1zKUUJ4uq,2822656,4
+70,LA13,Long Ambients Two,Ambient,0.156,0.118,9,-28.172,1,0.0457,0.681,0.789,0.0795,0.0557,137.835,7A5CT7Sh7n7Hy2G9KPrgm3,1615590,3
+71,LA14,Long Ambients Two,Ambient,0.0943,0.0421,6,-31.522,1,0.0412,0.669,0.939,0.0941,0.0352,74.569,3C6hD9DlRCQUJVfltTMMoQ,2358033,3
+72,LA15,Long Ambients Two,Ambient,0.14,0.166,0,-29.38,1,0.0378,0.773,0.678,0.13,0.0726,143.816,5qlCzEmmYLjrrlsb5kngR1,1927070,3
+73,LA16,Long Ambients Two,Ambient,0.159,0.134,7,-28.123,1,0.0506,0.181,0.888,0.106,0.0309,139.333,45Rw6B6tiiCGIAVhhGGYS5,1788643,3
+74,LA17,Long Ambients Two,Ambient,0.146,0.0987,9,-28.206,1,0.0421,0.374,0.827,0.0765,0.0283,140.145,2aEW5RFkOKulER8vYmPneM,2556796,5
+75,Ceremony of Innocence - Hyperion Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.5,0.714,9,-7.486,1,0.0435,0.00978,0.864,0.103,0.176,139.993,7hw73pIVgY2pJI32io4WpW,370213,4
+76,Like a Motherless Child - Broken Places Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.573,0.858,2,-6.335,1,0.0497,0.00176,0.301,0.208,0.241,101.984,3UigcTkkcvBLnq6GVCjE3i,349747,4
+77,Falling Rain And Light - Moby's Seas of Light Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.378,0.455,2,-9.38,1,0.0275,0.016,0.688,0.0967,0.189,143.91,0e8SYT0mCy3r07uzHjNHIM,361933,4
+78,Mere Anarchy - The Storm Rise Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.591,0.705,9,-9.319,1,0.0544,0.0238,0.77,0.0798,0.371,119.972,7DVwTDVeXk7MkNtGnTaap9,292760,4
+79,A Dark Cloud Is Coming - West Side Highway Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.484,0.614,10,-10.446,1,0.0392,0.41,0.937,0.115,0.363,119.986,5k38WtFHMp0SsKNumphnOT,518880,4
+80,Falling Rain and Light - Glory Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.44,0.644,7,-9.994,1,0.0479,0.789,0.862,0.0985,0.281,104.923,6W3RDYJQaEu5TavBGwXZe3,633347,4
+81,The Sorrow Tree - Post Hominum Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.442,0.735,2,-4.806,1,0.0349,0.000203,0.162,0.098,0.0474,117.986,66u91QmX86VNmdZUFJfYjZ,430053,4
+82,Welcome To Hard Times - 3am Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.588,0.698,10,-7.081,1,0.0542,0.268,0.805,0.113,0.27,124.006,0qRNMRM0aacBM2KWbJ0BGe,409360,4
+83,A Waste of Suns - Orange Flight Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.551,0.647,0,-11.858,1,0.0372,0.365,0.872,0.186,0.101,120.165,5jPCXxXF6wLUnWLS5wvSSY,341173,4
+84,Ceremony of Innocence - Analog Schule Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.53,0.834,9,-8.495,1,0.0479,0.186,0.872,0.131,0.11,123.962,16lDKweao8iCO09SGQPT2f,467840,4
+85,Mere Anarchy - Desert Birds Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.539,0.812,1,-9.389,1,0.0379,0.00102,0.947,0.0717,0.168,123.954,5Qxe6oYPpRSDPXUMErJRmF,309147,4
+86,The Last of Goodbyes - Vocoder Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.657,0.469,2,-9.886,1,0.0316,0.00668,0.909,0.105,0.0628,126.009,1CCjQuZ5lSHTRILRKP1XM8,337520,4
+87,This Wild Darkness - Loaded Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.398,0.432,7,-9.46,1,0.0276,0.751,0.000463,0.229,0.0586,77.96,1QWkIK8DnZTS7Jp2LPkl53,359547,4
+88,A Dark Cloud Is Coming - Quiet Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.203,0.444,7,-9.052,0,0.0291,0.955,0.872,0.109,0.0655,139.379,4Tomz2UcUdJKygvHji9A1m,342653,4
+89,Falling Rain and Light - Plains of Heaven Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.425,0.638,2,-8.713,1,0.0384,0.155,0.573,0.122,0.142,144.103,3rqCaEftwNfbNQgXPNDfjy,364573,4
+90,The Middle Is Gone - Callisto Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.386,0.627,5,-11.728,1,0.0441,0.673,0.933,0.0761,0.0878,100.97,32PsgXK2zPouCXTFzygi6D,427053,4
+91,Welcome To Hard Times - World's End Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.562,0.61,2,-7.785,0,0.0279,0.376,0.153,0.117,0.147,87.979,0NcUYNPnH49ApFAgRven8m,351280,4
+92,The Tired And The Hurt - Cold Unbroken Seas Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.304,0.669,7,-7.203,1,0.0313,0.405,0.556,0.099,0.131,77.612,2rxFIBjqyKILAvqaPN0SNJ,282907,4
+93,The Middle Is Gone - Light Shining Down Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.534,0.725,7,-9.566,1,0.0845,0.346,0.892,0.178,0.201,124.005,0COF8zgg2hhXsHQu150uka,470000,4
+94,The Sorrow Tree - The Daughters of Cain Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.163,0.493,4,-6.97,0,0.0297,0.00126,0.00387,0.362,0.0792,79.624,5VfpiaXvrWu9LVHoM4Qo7E,240720,3
+95,The Last of Goodbyes - Living Room Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.279,0.579,7,-10.865,1,0.0426,0.445,0.94,0.116,0.122,72.206,0EINQKOUl7ITy3yGhxf9I7,431987,3
+96,Like a Motherless Child - Advent Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.277,0.696,11,-8.248,0,0.0422,0.742,0.865,0.0849,0.0388,101.924,16vhaDIRwNOPFKK7LtBkFs,391280,4
+97,The Middle Is Gone - The Face of Dawn Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.353,0.777,11,-8.002,0,0.0442,0.0165,0.877,0.254,0.0633,147.995,0QrZJKJl15JT3JlZ9jlaxN,536667,4
+98,Welcome To Hard Times - The Light Inside The Fire Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.249,0.612,2,-9.583,0,0.0341,0.164,0.038,0.123,0.21,175.187,4xqNgXvuTRMm8EpTLQy4RU,424867,3
+99,The Last of Goodbyes - Criminal Solace Remix,"Everything Was Beautiful, and Nothing Hurt (Remixes)",Remix,0.443,0.268,2,-12.944,1,0.0305,0.533,0.935,0.109,0.171,74.958,5ZqaQ49H75lpiq7RvBCDU0,617281,1
+100,Mere Anarchy,"Everything Was Beautiful, and Nothing Hurt",Studio,0.39,0.743,1,-8.173,0,0.0409,0.142,0.774,0.0884,0.171,150.055,0kVv6aDiFJD1UcaayONAWu,315080,4
+101,The Waste Of Suns,"Everything Was Beautiful, and Nothing Hurt",Studio,0.392,0.727,11,-7.488,0,0.0545,0.313,0.923,0.123,0.347,170.146,3zsNZn4KtTq4Su5hyyWjyW,284547,4
+102,Like A Motherless Child,"Everything Was Beautiful, and Nothing Hurt",Studio,0.667,0.901,4,-5.375,0,0.206,0.0691,0.876,0.0981,0.136,102.018,2ULxyIwSLAV2UhGRWfijd1,277053,4
+103,The Last Of Goodbyes,"Everything Was Beautiful, and Nothing Hurt",Studio,0.415,0.674,4,-8.238,0,0.0893,0.92,0.958,0.114,0.355,150.001,5RyMmBTwn8wlLgK4qasKsf,263573,4
+104,The Ceremony Of Innocence,"Everything Was Beautiful, and Nothing Hurt",Studio,0.546,0.722,2,-9.147,1,0.0379,0.252,0.266,0.11,0.486,140.041,0RLhKn2GJ1zNw40UaGQfx6,236533,4
+105,The Tired And The Hurt,"Everything Was Beautiful, and Nothing Hurt",Studio,0.393,0.61,7,-9.823,1,0.127,0.558,0.497,0.108,0.403,156.108,1YFu04wTq9i9Vvh5PK3wdj,268133,4
+106,Welcome To Hard Times,"Everything Was Beautiful, and Nothing Hurt",Studio,0.461,0.485,0,-11.859,1,0.0343,0.605,0.0182,0.086,0.302,87.491,2G7qIlRTXO0eivib8p48l6,308920,4
+107,The Sorrow Tree,"Everything Was Beautiful, and Nothing Hurt",Studio,0.426,0.812,2,-8.215,1,0.05,0.371,0.939,0.121,0.394,168.025,6lhF9OV5S7wBNlsNinDH5c,268587,4
+108,Falling Rain And Light,"Everything Was Beautiful, and Nothing Hurt",Studio,0.533,0.651,11,-9.748,0,0.0402,0.701,0.805,0.0847,0.344,144.01,4rwXMUGnPe0C2fYGi7mzFm,286373,4
+109,The Middle Is Gone,"Everything Was Beautiful, and Nothing Hurt",Studio,0.589,0.775,0,-7.419,1,0.0282,0.135,0.798,0.0996,0.159,92.009,0qpmdTccZydu7V6tsK6qHd,313093,4
+110,This Wild Darkness,"Everything Was Beautiful, and Nothing Hurt",Studio,0.527,0.633,7,-8.369,1,0.0305,0.804,0.000274,0.103,0.364,78.0,5LwuYetop8ym6rbX86DGs3,249280,4
+111,A Dark Cloud Is Coming,"Everything Was Beautiful, and Nothing Hurt",Studio,0.532,0.484,2,-7.702,0,0.0251,0.891,0.78,0.108,0.228,69.996,7uGJ44u1YqTmsvioQv9vQe,324894,4
+112,Silence,More Fast Songs About The Apocalypse,Studio,0.481,0.994,2,-3.954,0,0.166,0.0357,6.61e-05,0.546,0.326,170.006,6mGZMGhz2EQFML93Bd7z1B,236013,4
+113,A Softer War,More Fast Songs About The Apocalypse,Studio,0.361,0.989,7,-4.253,1,0.0462,0.0426,0.0292,0.352,0.375,175.066,1tlH6dJ6eT3Be2Aj1Ux8Rj,269000,4
+114,There's Nothing Wrong with the World There's Something Wrong with Me,More Fast Songs About The Apocalypse,Studio,0.413,0.962,9,-4.418,1,0.0698,0.0113,0.000979,0.09,0.366,154.98,3YyzTLbKUbeYfTkkjAIkAS,231693,4
+115,Trust,More Fast Songs About The Apocalypse,Studio,0.419,0.993,2,-3.612,1,0.0997,0.0115,0.0,0.0805,0.365,174.964,1CfMC7b4us27FPo1cVp1wY,169640,4
+116,All the Hurts We Made,More Fast Songs About The Apocalypse,Studio,0.341,0.969,4,-4.301,0,0.0795,0.0139,0.0345,0.143,0.196,162.031,5KoxdhOtAlHCABG0yOnpPi,306053,4
+117,In This Cold Place,More Fast Songs About The Apocalypse,Studio,0.492,0.95,7,-4.556,1,0.0649,0.0362,0.0892,0.101,0.62,155.027,0iRRTpiGkQMHlvfJPO2u0w,236987,4
+118,If Only a Correction of All We've Been,More Fast Songs About The Apocalypse,Studio,0.415,0.98,9,-5.159,1,0.0824,0.0224,0.0366,0.155,0.521,169.995,5cDXn6fRKDtf4kGV2KSpAJ,325253,4
+119,It's So Hard to Say Goodbye,More Fast Songs About The Apocalypse,Studio,0.363,0.966,0,-5.271,1,0.126,0.0131,0.0,0.097,0.181,180.019,2sipT7jXyzFuDS20mnfViU,207160,4
+120,A Happy Song,More Fast Songs About The Apocalypse,Studio,0.358,0.992,2,-4.518,1,0.126,0.0117,0.000893,0.0985,0.194,194.983,4T8P3iU9VLz0IhzVLE12jf,168587,4
+121,Wait for Me - Adriatique Remix,Remixes,Remix,0.473,0.563,11,-11.826,0,0.0315,0.00409,0.654,0.109,0.0773,163.977,3ekSNyXKYSPVI42h2MeR5S,335516,4
+122,Why Does My Heart Feel so Bad? - Magdalena Remix,Remixes,Remix,0.748,0.635,4,-11.746,0,0.0589,0.0126,0.872,0.101,0.579,121.999,1nkRyLg1h3fJNOb2jJ2ZzF,509396,4
+123,Natural Blues - Johannes Brecht Remix,Remixes,Remix,0.778,0.625,10,-10.548,0,0.0593,0.089,0.553,0.106,0.396,123.987,5mqY3K1Tcmj33nUBRxfIum,399072,4
+124,Natural Blues - Stimming Remix,Remixes,Remix,0.859,0.577,11,-12.139,1,0.0676,0.143,0.619,0.129,0.694,121.484,4twLLvJeDmKzCmI0d77D1I,619765,4
+125,Hey! Hey!,These Systems Are Failing,Studio,0.343,0.955,7,-2.374,1,0.0906,0.000354,0.0502,0.114,0.543,164.95,6fu5TJBMTb8EKYuoMBtmwH,263267,4
+126,Break. Doubt,These Systems Are Failing,Studio,0.459,0.844,9,-3.924,0,0.0499,0.000142,0.00162,0.0809,0.388,164.957,5p4G8ouz97IVuAqQm6A1v8,252600,4
+127,I Wait for You,These Systems Are Failing,Studio,0.41,0.988,11,-3.866,0,0.1,0.0808,0.000379,0.737,0.518,83.942,44kf73VD17ejd0zndr92JB,239893,4
+128,Don't Leave Me,These Systems Are Failing,Studio,0.521,0.86,7,-3.836,1,0.0322,0.00611,0.0252,0.126,0.24,115.025,7peMxmeSMhbxQtTYs7xvfx,278853,4
+129,Erupt & Matter,These Systems Are Failing,Studio,0.459,0.948,4,-3.375,0,0.107,0.000993,0.000287,0.0956,0.512,75.013,6n3O64DiYYi9yd4fFuCnca,249293,4
+130,Are You Lost in the World Like Me?,These Systems Are Failing,Studio,0.369,0.922,0,-3.714,1,0.0347,2.64e-05,0.0114,0.147,0.14,159.965,2WPXvQVeI8iatEijvn9GMZ,266920,4
+131,A Simple Love,These Systems Are Failing,Studio,0.419,0.889,7,-3.908,1,0.048,0.000133,0.0203,0.118,0.476,74.98,49Njxg0LpbRLXnKMebCXO9,279453,4
+132,The Light Is Clear In My Eyes,These Systems Are Failing,Studio,0.342,0.872,0,-3.116,1,0.0448,5.03e-06,0.00367,0.119,0.316,150.067,20oI3C00C7gREievhaUAbJ,207200,4
+133,And It Hurts,These Systems Are Failing,Studio,0.436,0.89,11,-3.47,0,0.0374,2.33e-05,0.916,0.0635,0.39,92.521,5NdCNAJAO2ZsxD4Mmfe310,113653,4
+134,Porcelain - Luca Agnelli Remix,The Remixes,Remix,0.711,0.675,6,-9.904,0,0.0835,0.00861,0.821,0.109,0.285,126.998,1BntWmKokYMMREPK0lqtp7,471996,4
+135,Go - Bart Skils Remix,The Remixes,Remix,0.635,0.806,11,-8.623,0,0.0407,0.00165,0.942,0.0966,0.0788,126.007,20qwUWcOftbnnSEXxr1cVZ,551708,4
+136,Why Does My Heart Feel so Bad - Enrico Sangiuliano Remix,The Remixes,Remix,0.765,0.733,7,-7.113,1,0.0527,0.000372,0.589,0.0951,0.0812,124.996,0EdB5HMwb1KBk4NGqpP6rM,434687,4
+137,Porcelain - Alan Fitzpatrick's Late Night Dub,The Remixes,Remix,0.736,0.655,11,-9.812,0,0.0467,0.0184,0.914,0.117,0.0621,124.001,7LF9Snih0ILJX3KTpfhyix,481936,4
+138,Go - Tiger Stripes White Tail Remix,The Remixes,Remix,0.782,0.697,1,-6.768,1,0.0675,0.000385,0.921,0.257,0.49,127.012,0NHgBjHN9NJ0MF28GNvagV,428976,4
+139,Natural Blues - Dense & Pika Remix,The Remixes,Remix,0.901,0.624,7,-7.969,1,0.111,0.0123,0.703,0.0769,0.349,126.011,7aNymd76qYe8jQMRzXLGbD,430427,4
+140,Go - Manic Brothers Remix,The Remixes,Remix,0.743,0.702,11,-7.601,0,0.0322,0.000172,0.91,0.634,0.0343,128.001,2Chw1XEtYYrb2GqR3C1LdW,547500,4
+141,Natural Blues - Marco Faraone's Whitelandvox Remix,The Remixes,Remix,0.616,0.828,11,-9.192,0,0.053,0.118,0.858,0.112,0.388,128.004,3Eznjlk2zQPFvW8mBKLyrZ,438958,4
+142,Go - Tiger Stripes Black Lodge Remix,The Remixes,Remix,0.935,0.553,1,-10.263,1,0.0623,0.00666,0.896,0.122,0.564,126.014,7GXvT6FtvFcbuyM9vAF5f7,442381,4
+143,LA1,Long Ambients 1: Calm. Sleep,Ambient,0.152,0.103,0,-24.723,1,0.0468,0.978,0.842,0.0721,0.0297,142.17,2JzPcB8bqsAPZOxKGxZtrO,1252800,4
+144,LA2,Long Ambients 1: Calm. Sleep,Ambient,0.14,0.0409,0,-34.588,1,0.0421,0.901,0.849,0.102,0.0313,141.426,3NQTi32tu6uHtQeAaSy0sb,1139450,3
+145,LA3,Long Ambients 1: Calm. Sleep,Ambient,0.211,0.22,6,-22.794,1,0.047,0.45,0.898,0.137,0.0322,138.088,6GLs8YL3OCPAvbE1MRcTFB,1372392,4
+146,LA4,Long Ambients 1: Calm. Sleep,Ambient,0.141,0.0228,5,-34.542,1,0.0471,0.987,0.946,0.0929,0.0496,141.388,6eDznKOPnlgwhmoQh098l1,1051771,4
+147,LA5,Long Ambients 1: Calm. Sleep,Ambient,0.151,0.00338,0,-35.422,1,0.0434,0.956,0.767,0.12,0.0239,135.349,5PJJHXzJuihJJAEry4UUTY,2139038,3
+148,LA6,Long Ambients 1: Calm. Sleep,Ambient,0.246,0.168,2,-29.557,1,0.0567,0.968,0.878,0.0481,0.0729,132.184,39RIOupRncULinscKsYLvA,1153333,4
+149,LA7,Long Ambients 1: Calm. Sleep,Ambient,0.0667,0.0285,0,-29.542,1,0.0453,0.846,0.683,0.1,0.0336,73.257,1E2jzQWv9sMeVlAxdOEcLy,1084800,4
+150,LA8,Long Ambients 1: Calm. Sleep,Ambient,0.141,0.0228,0,-32.51,1,0.0464,0.902,0.777,0.137,0.0362,140.696,3h2gMCEkFgERMeYN8bx7op,1207500,3
+151,LA9,Long Ambients 1: Calm. Sleep,Ambient,0.181,0.06,4,-31.977,1,0.0487,0.885,0.886,0.0965,0.0323,138.505,16tF1kTPVcqG5LOI4R1pZG,1652518,5
+152,LA10,Long Ambients 1: Calm. Sleep,Ambient,0.156,0.106,7,-29.575,1,0.0506,0.196,0.927,0.106,0.0281,136.662,2OELlczVB3SORQ47ZlU3nL,1414587,3
+153,LA11,Long Ambients 1: Calm. Sleep,Ambient,0.146,0.0279,0,-37.429,1,0.0571,0.788,0.972,0.103,0.0295,138.167,7ExMVK1rtW7rZnrYlj6ABP,1224156,5
+154,Swear,Hotel Ambient,Ambient,0.553,0.322,4,-20.381,0,0.055,0.609,0.909,0.105,0.081,122.032,0KR0kqO97TdpJp3zuCnreD,400333,4
+155,Snowball,Hotel Ambient,Ambient,0.167,0.0167,0,-23.164,1,0.0467,0.833,0.608,0.122,0.0357,126.829,2IWJDwE29xn52IdKG7BVpW,266093,4
+156,Blue Paper,Hotel Ambient,Ambient,0.472,0.296,4,-16.379,1,0.0279,0.551,0.764,0.0801,0.0598,84.979,0sxwYboFGVQAsyGkinZdDy,367547,4
+157,Homeward Angel - Long Version,Hotel Ambient,Ambient,0.345,0.231,7,-15.51,1,0.0434,0.801,0.966,0.293,0.0659,121.423,1aIiWoEBygwovFTV95xJmm,657493,3
+158,Chord Sounds,Hotel Ambient,Ambient,0.169,0.263,9,-15.226,1,0.0368,0.944,0.789,0.153,0.0354,130.134,4qMfc9eKdZwUp58UkduAZy,445067,4
+159,Not Sensitive,Hotel Ambient,Ambient,0.251,0.143,9,-26.819,0,0.0453,0.958,0.95,0.0744,0.104,70.582,08w8vVwce0lz7b6foV0P0g,190267,4
+160,Lilly,Hotel Ambient,Ambient,0.222,0.072,4,-23.743,0,0.0437,0.988,0.919,0.159,0.0534,133.198,60g92Twmqkwam8ISElplKf,234040,5
+161,May 4 Two,Hotel Ambient,Ambient,0.106,0.0271,0,-24.199,1,0.0438,0.838,0.863,0.115,0.029,78.49,4B4aNiOPEueVw8ubhbp0BK,490783,3
+162,The Come Down,Hotel Ambient,Ambient,0.261,0.0606,4,-21.687,1,0.0465,0.969,0.9,0.0781,0.0324,69.054,1BoFHZ8hwktbN0uzG5E5XB,318133,4
+163,Overland,Hotel Ambient,Ambient,0.124,0.0602,9,-26.929,1,0.0398,0.91,0.737,0.104,0.0335,72.106,4Wu2Obrb7TT4P1gEdALAt3,409160,4
+164,Live Forever,Hotel Ambient,Ambient,0.156,0.0186,4,-32.27,1,0.0421,0.972,0.961,0.11,0.0357,85.31,22lVhXU70qGAHR16cO8Z0b,435520,3
+165,Aerial,Hotel Ambient,Ambient,0.132,0.0664,4,-26.29,1,0.0447,0.674,0.943,0.0821,0.0369,67.416,6Aw2Qy5yx54nAlVBt3oe22,348853,3
+166,Spaired - Long Version,Hotel Ambient,Ambient,0.18,0.32,7,-18.06,1,0.0874,0.383,0.988,0.0719,0.0381,79.291,4gHnWnCYtLSXEgvyvskI1S,471100,4
+167,Live Forever - Long Version,Hotel Ambient,Ambient,0.0648,0.0532,8,-27.555,0,0.0487,0.963,0.933,0.0703,0.0313,70.239,7xyllzIwIQyuAOVaZcWolG,940222,4
+168,Everything That Rises,Innocents,Studio,0.555,0.631,11,-10.006,0,0.0273,0.0103,0.921,0.173,0.357,103.511,14HIdxjtUXElHhIQ862fek,276939,4
+169,A Case For Shame (feat. Cold Specks),Innocents,Studio,0.426,0.418,0,-11.657,1,0.0357,0.736,0.0257,0.0608,0.0785,143.719,2DItEBAPaXbxNOz1z7z9qx,363814,4
+170,Almost Home (feat. Damien Jurado),Innocents,Studio,0.413,0.541,2,-9.016,1,0.0282,0.291,0.392,0.181,0.125,91.938,6pxqE7sMz1qdb24v2y2FX0,359843,4
+171,Going Wrong,Innocents,Studio,0.197,0.193,7,-14.432,1,0.0346,0.635,0.844,0.126,0.0584,74.293,3NXJ4EKTFoqt13gpRzFWJ6,223083,5
+172,The Perfect Life (feat. Wayne Coyne),Innocents,Studio,0.425,0.632,5,-7.615,1,0.0282,0.0212,0.0,0.253,0.354,90.993,5S4raUxhcgcELXtWh3G5yQ,362180,4
+173,The Last Day (feat. Skylar Grey),Innocents,Studio,0.42,0.598,9,-10.071,0,0.0432,0.157,0.456,0.0996,0.215,99.035,5FMMPR70RZ0OW6GPey5Smu,279659,4
+174,Don't Love Me (feat. Inyang Bassey),Innocents,Studio,0.287,0.862,11,-7.263,0,0.186,0.08,0.0887,0.296,0.295,170.039,53dI9LkPCOjQR5Xc4hjgTf,259221,4
+175,A Long Time,Innocents,Studio,0.472,0.668,7,-10.049,1,0.0537,0.0892,0.741,0.139,0.302,93.058,5kfZzQiKoWwjmIhNYXGcSh,270084,4
+176,Saints (feat. Inyang Bassey),Innocents,Studio,0.441,0.695,9,-9.901,0,0.0291,0.00257,0.931,0.166,0.0943,110.022,6A0g1FrzoVyQjXQe2O48WU,273705,4
+177,Tell Me (feat. Cold Specks),Innocents,Studio,0.395,0.71,6,-9.202,0,0.105,0.245,0.43,0.165,0.262,137.987,4Wxj43zb4xCyTbiYD32kKh,332250,4
+178,The Lonely Night (with Mark Lanegan),Innocents,Studio,0.216,0.255,0,-14.762,1,0.0301,8.75e-05,0.61,0.0938,0.0396,90.601,7hiuPjwwT9EgajJGpKrDgi,292582,4
+179,The Dogs,Innocents,Studio,0.0745,0.505,5,-10.919,1,0.0344,0.015,0.792,0.0923,0.0808,178.91,1MfoEbZIDMpCdWhUif2epX,562559,3
+180,Blue Moon - Holy Ghost! Remix,Destroyed Remixed,Remix,0.655,0.937,9,-6.529,0,0.0567,0.000278,0.806,0.0919,0.52,121.405,3qGy7YQhNcX049KrVYbIdd,355398,4
+181,Lie Down In Darkness - Arno Cost Remix,Destroyed Remixed,Remix,0.549,0.721,2,-7.639,1,0.0374,0.00517,0.906,0.105,0.132,125.986,1GMwMTW5QgMa8INj27N6PT,438213,4
+182,Sevastopol - John Lord Fonda Cathedral Mix,Destroyed Remixed,Remix,0.66,0.827,6,-8.597,1,0.0412,0.0179,0.903,0.089,0.343,125.023,5xXzueZ306nhukObb0TZVJ,312271,4
+183,The Day - Basto! Remix,Destroyed Remixed,Remix,0.627,0.861,0,-3.219,1,0.0375,0.00377,0.148,0.4,0.283,124.996,2eODk0yNCaDZQySruHJYG3,391843,4
+184,Lie Down In Darkness - Bassjackers Remix,Destroyed Remixed,Remix,0.715,0.685,7,-5.693,1,0.0446,0.000797,0.788,0.0452,0.446,128.0,00tdpscjzKWktO5PDrN3OQ,361807,4
+185,After - Ferry Corsten Remix,Destroyed Remixed,Remix,0.363,0.793,10,-12.264,0,0.0534,1.49e-05,0.803,0.0253,0.0809,130.019,7Gin6cUY2EcOyROSfyeAHF,446707,4
+186,The Low Hum - System Divine Remix,Destroyed Remixed,Remix,0.775,0.709,6,-4.562,0,0.0421,0.000305,0.837,0.0675,0.503,126.989,6zPKf6SlzC6ge8AxCiXJd1,413756,4
+187,Victoria Lucas (feat. Inyang Bassey) - Sasha Remix,Destroyed Remixed,Remix,0.757,0.501,2,-10.438,1,0.0488,0.00516,0.894,0.0763,0.479,125.992,2z9jcTJwQD8QF37LKDIGn0,563861,4
+188,Lie Down In Darkness - Paul Van Dyk Remix,Destroyed Remixed,Remix,0.702,0.786,2,-4.406,1,0.0401,0.00679,0.845,0.0935,0.0704,128.001,7pg71mrMZZxRKN6Ny1Vks8,549533,4
+189,The Day - Eddie Thoneick Remix,Destroyed Remixed,Remix,0.821,0.596,0,-7.155,1,0.0522,0.0086,0.0801,0.0883,0.279,127.99,5BBiD6fFdxG31ZulUulFKX,454252,4
+190,Lie Down In Darkness - Gregor Tresher Remix,Destroyed Remixed,Remix,0.736,0.636,0,-9.526,1,0.0448,0.000388,0.0198,0.115,0.826,125.996,306mFJsseRxee5RKubaZXO,345246,3
+191,The Right Thing (feat. Inyang Bassey) - Kleerup Remix,Destroyed Remixed,Remix,0.619,0.907,9,-13.451,0,0.0399,0.0919,0.773,0.0897,0.711,119.976,6Rqth9VXVFs3cZ5R6C5LZE,460653,4
+192,After - Tommy Trash Remix,Destroyed Remixed,Remix,0.695,0.883,1,-2.573,1,0.0563,0.00161,0.804,0.0643,0.287,127.989,2DufCKavaCm5LiDMkj93uU,362344,4
+193,Lie Down In Darkness - Photek Remix,Destroyed Remixed,Remix,0.531,0.817,7,-5.276,1,0.0415,0.186,0.806,0.0926,0.0943,144.022,04Notrb32vpGp1PB3hHma7,335312,4
+194,The Day - Yeasayer Remix,Destroyed Remixed,Remix,0.505,0.842,0,-5.889,1,0.0345,0.108,0.00503,0.186,0.106,108.007,60sNmdijOzqueaVPJDHACu,288811,4
+195,The Right Thing (feat. Inyang Bassey) - Dan Levy from The Dø Remix,Destroyed Remixed,Remix,0.182,0.856,4,-4.562,0,0.0799,0.186,0.0529,0.478,0.139,175.817,7xs1zUh8x0y5yOYexqxUW7,263507,4
+196,The Poison Tree (feat. Inyang Bassey) - David Lynch Remix,Destroyed Remixed,Remix,0.539,0.39,11,-11.916,1,0.0344,0.0149,0.703,0.356,0.206,171.915,1NPGJG3sOVnYeBD1mywefT,418671,4
+197,Rockets (feat. Inyang Bassey),Destroyed Remixed,Remix,0.405,0.58,4,-9.586,0,0.0374,0.373,0.00023,0.118,0.111,90.616,4FauoOpEHkzFEqdcKPvyq9,287280,4
+198,The Right Thing (feat. Inyang Bassey) [Ben Hoo Derivation],Destroyed Remixed,Remix,0.41,0.514,9,-14.627,0,0.0306,0.032,0.368,0.123,0.128,176.004,7szxD2eA3cc8ga9ZNIToRN,296493,4
+199,The Broken Places,Destroyed Remixed,Remix,0.564,0.494,9,-13.118,0,0.037,0.876,0.87,0.085,0.0917,90.027,5gRiqWpYhwEhyTpseMSOhb,249933,4
+200,Stella Maris,Destroyed Remixed,Remix,0.177,0.285,5,-13.168,1,0.0361,0.671,0.677,0.109,0.0364,85.257,5TWMFNMX0VI3HFl5Sg2e8x,313787,4
+201,All Sides Gone,Destroyed Remixed,Remix,0.222,0.0249,7,-28.708,1,0.0482,0.976,0.861,0.079,0.0384,70.424,6l1VF0U6Lf9aIIVMb4OHHh,2077336,5
+202,The Broken Places,Destroyed [Deluxe Edition],Studio,0.564,0.494,9,-13.118,0,0.037,0.876,0.87,0.085,0.0917,90.027,7lzb1dBIJzBpVXsLqNaZUI,249933,4
+203,Be the One,Destroyed [Deluxe Edition],Studio,0.432,0.603,10,-7.197,1,0.035,0.00274,0.00023,0.139,0.0954,132.104,2CK8umnp3LgpJBmrIDHfqL,209333,4
+204,Sevastopol,Destroyed [Deluxe Edition],Studio,0.479,0.849,7,-6.6,1,0.0527,3.44e-05,0.684,0.13,0.475,135.01,2zZySRcZdEaxxxZk5PIzGb,260720,4
+205,The Low Hum,Destroyed [Deluxe Edition],Studio,0.425,0.599,11,-7.684,0,0.0318,0.113,0.761,0.125,0.104,124.013,1RrmpyLDAyOSjEkWmJpGBw,252973,4
+206,Rockets (feat. Inyang Bassey),Destroyed [Deluxe Edition],Studio,0.405,0.58,4,-9.586,0,0.0374,0.373,0.00023,0.118,0.111,90.616,1ZrZSEEcOuSENS9vCiq0x2,287280,4
+207,The Day,Destroyed [Deluxe Edition],Studio,0.435,0.591,0,-7.323,1,0.0287,0.000149,1.74e-05,0.123,0.124,107.989,3RpdufFs1p2z2QTs4z2326,272200,4
+208,Lie Down In Darkness,Destroyed [Deluxe Edition],Studio,0.442,0.655,4,-6.892,0,0.0288,0.548,0.0234,0.132,0.12,94.998,2ZaZ1G5zZQTeDYCDQXBOMx,265520,4
+209,Victoria Lucas (feat. Inyang Bassey),Destroyed [Deluxe Edition],Studio,0.529,0.556,0,-8.751,1,0.0284,0.672,0.938,0.158,0.325,115.031,5CgZKONH5X9zaNI58VfwKd,354493,4
+210,After,Destroyed [Deluxe Edition],Studio,0.632,0.731,8,-6.317,1,0.0442,0.0679,0.454,0.163,0.116,101.977,1EqB9t1KwoHDfFoCTqtJpr,329533,4
+211,Blue Moon,Destroyed [Deluxe Edition],Studio,0.584,0.631,0,-6.558,1,0.0319,0.0188,0.000153,0.185,0.244,110.978,4lhW0TZBiYJvQf8RjvyvcP,210667,4
+212,The Right Thing (feat. Inyang Bassey),Destroyed [Deluxe Edition],Studio,0.49,0.425,4,-9.888,0,0.0316,0.154,0.000144,0.184,0.283,87.939,5jvYVOjYGW2iOEMVGlSR8t,265720,4
+213,Stella Maris,Destroyed [Deluxe Edition],Studio,0.177,0.285,5,-13.168,1,0.0361,0.671,0.677,0.109,0.0364,85.257,2rJ1aECZHy80LHNdPHSyoL,313787,4
+214,The Violent Bear It Away,Destroyed [Deluxe Edition],Studio,0.327,0.491,11,-9.712,0,0.0331,0.0407,0.818,0.16,0.166,110.269,7ixlWHVvULHrRDblKejOZE,410373,4
+215,Lacrimae,Destroyed [Deluxe Edition],Studio,0.526,0.593,7,-7.442,1,0.0284,0.275,0.43,0.161,0.0399,104.985,5dP3wOJfuszsGJNswN4YbH,485120,4
+216,When You Are Old,Destroyed [Deluxe Edition],Studio,0.23,0.208,4,-11.969,0,0.0404,0.71,0.751,0.0951,0.13,114.332,2nV8xgO3eBTsUgbSCRCb4t,138787,5
+217,The Poison Tree (feat. Inyang Bassey),Destroyed [Deluxe Edition],Studio,0.598,0.516,4,-14.036,1,0.0442,0.114,0.494,0.0989,0.213,117.991,2cdsNf3mkkwG9ZPVHCe6Fp,282567,4
+218,Sandpaper,Destroyed [Deluxe Edition],Studio,0.737,0.463,0,-10.824,0,0.0388,0.0238,0.953,0.106,0.72,124.517,40qmhrwurd467ucv0jI6RR,235200,4
+219,Breakdown,Destroyed [Deluxe Edition],Studio,0.373,0.56,4,-16.995,0,0.0407,0.00421,0.228,0.0866,0.0912,116.976,2XTXxJWNjSHnFofiHe9E8p,226867,4
+220,Unter Den Linden,Destroyed [Deluxe Edition],Studio,0.492,0.447,2,-16.041,1,0.0338,0.824,0.93,0.176,0.352,102.047,1nsTBfna7NJgW8uetqIcPq,303573,4
+221,Fortitude,Destroyed [Deluxe Edition],Studio,0.496,0.596,7,-12.965,1,0.0291,3.45e-05,0.912,0.418,0.406,121.98,4hBEewX8pb0NKpt3Y9lIMS,322773,4
+222,Washing,Destroyed [Deluxe Edition],Studio,0.501,0.534,4,-16.185,0,0.0254,0.063,4.64e-05,0.0582,0.239,105.004,0Ic7BNpdsPyWZPMChA5pgz,480907,4
+223,Sweet Dreams,Destroyed [Deluxe Edition],Studio,0.592,0.368,4,-14.487,0,0.0322,0.0809,0.877,0.0772,0.216,90.061,5FGR4gCjERACyujJfY2jDk,252707,4
+224,The Broken Places - Full Length Version,Destroyed [Deluxe Edition],Studio,0.524,0.477,9,-14.697,0,0.0366,0.843,0.795,0.091,0.108,90.032,7GOmoz9MGV236Es7MmP36w,358267,4
+225,Lie Down in Darkness - Basement Studio Version,Destroyed [Deluxe Edition],Studio,0.167,0.264,2,-15.172,1,0.0462,0.929,0.434,0.226,0.0655,180.804,74e7GtlD8V0vL2QmgWDWaQ,230040,4
+226,The Day - Orchestral Version,Destroyed [Deluxe Edition],Studio,0.253,0.26,0,-16.392,1,0.0355,0.722,0.965,0.0951,0.219,119.88,4bBUzVJ431xKnnT98TiPxU,218827,4
+227,Slow,Destroyed [Deluxe Edition],Studio,0.524,0.572,1,-14.447,1,0.0422,0.00305,0.944,0.339,0.057,190.026,2Iyp9cEmPsyTuj5UQa50g6,442067,4
+228,Isolate (Mixhell Remix),Wait For Me Remixes!,Remix,0.659,0.884,7,-6.271,1,0.0268,0.181,0.772,0.11,0.0661,120.004,0xmmCrehcYKC9ICIKPbxhp,321577,4
+229,Slow Light (Maps Remix),Wait For Me Remixes!,Remix,0.617,0.966,5,-3.65,0,0.0615,0.00949,0.489,0.0765,0.839,125.373,4Wd0024JyD6681Nt8sGA2B,355397,4
+230,Wait For Me (Paul Kalkbrenner Remix),Wait For Me Remixes!,Remix,0.673,0.878,11,-4.466,0,0.045,0.00218,0.882,0.81,0.754,123.96,34xDFSm4aq4fb88jHmM746,551683,4
+231,Pale Horses (Gui Boratto's Last Window Remix),Wait For Me Remixes!,Remix,0.798,0.655,7,-6.611,1,0.0451,0.000757,0.873,0.095,0.0384,122.002,3t2jicLxRzQyfdhAEJyyZG,456723,4
+232,Walk With Me (Carl Cox Remix),Wait For Me Remixes!,Remix,0.807,0.618,2,-7.047,1,0.0763,0.0162,0.67,0.0812,0.314,122.986,6VCkYh2wdELyQr0KLYckWh,383115,4
+233,Mistake (Yuksek Remix),Wait For Me Remixes!,Remix,0.736,0.887,4,-5.029,0,0.0667,0.0148,0.126,0.0399,0.819,124.981,7BjJxlj3E7BVsup5RBXPMV,295130,4
+234,One Time We Lived - Laurent Wolf Remix,Wait For Me Remixes!,Remix,0.747,0.857,11,-3.933,0,0.0504,0.000119,0.447,0.0834,0.706,126.002,4AgOOkhEIKlKxyLHrRzTo6,460205,4
+235,Jltf (Chuckie Remix),Wait For Me Remixes!,Remix,0.757,0.923,1,-5.849,0,0.0562,0.00958,0.788,0.113,0.605,127.996,1RqW3vciFQYaOFwn7rs0MK,333851,4
+236,Wait For Me (Laidback Luke Remix),Wait For Me Remixes!,Remix,0.763,0.767,4,-5.564,0,0.109,0.00474,0.718,0.0698,0.0822,129.998,0krEkcBlz4O1zAoaL62orK,400738,4
+237,Stay Down (Popof Remix),Wait For Me Remixes!,Remix,0.769,0.946,11,-7.501,0,0.0742,0.00785,0.887,0.0722,0.641,127.043,1lWdzJMLMZ01qqyhmNO4vf,377008,4
+238,Study War (Savage Skulls Remix),Wait For Me Remixes!,Remix,0.798,0.919,2,-3.94,1,0.158,0.000966,0.286,0.906,0.357,129.984,2BM4CehegaypRcLQv0YUJ0,309149,4
+239,Shot In the Back Of the Head (Tiesto Remix),Wait For Me Remixes!,Remix,0.639,0.457,0,-4.861,1,0.155,8.69e-05,0.929,0.0872,0.174,127.99,2AVT63fg3A14xteIhjPSyj,434613,4
+240,One Time We Lived - Acoustic,Wait For Me Remixes!,Remix,0.491,0.428,11,-9.998,0,0.0304,0.598,0.011,0.125,0.32,119.888,6DkGDPToNF2mVlEBMkP5l9,232067,4
+241,One Time We Lived (Sharooz Remix),Wait For Me Remixes!,Remix,0.81,0.759,6,-6.176,0,0.0564,0.0121,0.252,0.0587,0.624,126.992,580rNQPOK5TF2AnUJ1tUhn,350714,4
+242,Stay Down (Julian Jeweil Remix),Wait For Me Remixes!,Remix,0.731,0.789,0,-5.676,1,0.0351,0.000722,0.865,0.128,0.542,129.0,4AMsvT72bwPUBbtsMAZNhc,387749,4
+243,Wait For Me (Jean Elan Remix),Wait For Me Remixes!,Remix,0.795,0.611,11,-7.579,0,0.0813,0.0351,0.758,0.0941,0.161,126.984,2fdC94PXkM0D49RKXAuhLu,480650,4
+244,Walk With Me (Jon Rundell Remix),Wait For Me Remixes!,Remix,0.855,0.418,9,-4.599,0,0.0532,0.0569,0.564,0.0528,0.323,124.995,4YsS1nRcCGsrxwVx0vfNKz,481054,4
+245,Continuous DJ mix by Moby,Wait For Me Remixes!,Remix,0.743,0.883,4,-6.272,0,0.0699,0.0114,0.542,0.0678,0.299,127.344,6qRO6WnvjpEGNzQEbtyk3u,4373393,4
+246,A Seated Night - Ambient,Wait For Me Ambient,Ambient,0.2,0.142,0,-17.518,1,0.041,0.993,0.909,0.0834,0.0299,129.228,0tkiao99o5VUDswrHm0LdP,235720,5
+247,Study War - Ambient,Wait For Me Ambient,Ambient,0.157,0.308,2,-15.991,0,0.0388,0.928,0.881,0.274,0.0393,108.152,4dCjiuqcpxDxxzpkO6hL0z,270160,4
+248,Pale Horses - Ambient,Wait For Me Ambient,Ambient,0.191,0.17,7,-14.833,0,0.0381,0.978,0.908,0.0979,0.053,132.902,4hZyeG8xyzQN6a5cp8P04l,295680,3
+249,Stay Down - Ambient,Wait For Me Ambient,Ambient,0.119,0.56,6,-17.212,0,0.0512,0.987,0.878,0.128,0.0469,77.972,2A5l26AdumvBRyHHS1yebT,397080,4
+250,Hope Is Gone - Ambient,Wait For Me Ambient,Ambient,0.311,0.276,5,-15.406,1,0.0353,0.975,0.921,0.161,0.0576,138.413,7t29he7J2djyvZWxrEGZLD,188120,3
+251,Wait For Me - Ambient,Wait For Me Ambient,Ambient,0.0869,0.0897,4,-18.367,0,0.0398,0.989,0.304,0.112,0.174,64.927,0055WqKgbtUzKyhwbAhzET,265200,3
+252,Division - Ambient,Wait For Me Ambient,Ambient,0.201,0.21,2,-18.574,1,0.0401,0.963,0.983,0.149,0.0326,68.206,1jF7I89LoPiv6t4cPabTlP,97533,3
+253,Mistake - Ambient,Wait For Me Ambient,Ambient,0.0912,0.361,4,-16.534,0,0.0475,0.877,0.858,0.162,0.0364,71.174,0A8J3fuf1LG0pBljJI4gBe,216827,4
+254,Walk With Me - Ambient,Wait For Me Ambient,Ambient,0.115,0.31,9,-16.897,0,0.0358,0.987,0.766,0.643,0.049,79.819,6cai8aNux7TX3R4AgCzTZA,177880,4
+255,Isolate - Ambient,Wait For Me Ambient,Ambient,0.131,0.211,7,-21.843,1,0.0466,0.987,0.962,0.141,0.0905,69.129,3Gvfx8au19r3vs9nzgYQdr,188147,3
+256,Shot In The Back Of The Head - Ambient,Wait For Me Ambient,Ambient,0.165,0.134,0,-18.707,1,0.033,0.97,0.908,0.126,0.0396,97.973,5igiTqofyGwMt05AQu7xOB,195773,4
+257,Slow Light - Ambient,Wait For Me Ambient,Ambient,0.134,0.421,0,-16.735,1,0.0471,0.949,0.987,0.132,0.0373,89.844,7x0f0Ao9jCnMiCc0QE9Sj8,184173,4
+258,Ghost Return - Ambient,Wait For Me Ambient,Ambient,0.456,0.332,5,-17.648,0,0.0342,0.907,0.000144,0.275,0.16,110.834,5VWB2oh188OKhDhalOHxds,153840,4
+259,Scream Pilots - Ambient,Wait For Me Ambient,Ambient,0.0717,0.102,4,-20.437,0,0.0488,0.976,0.903,0.0753,0.0357,64.427,3FV0Rf9TgGIKlUfoVafls3,469253,4
+260,Jltf3 - Ambient,Wait For Me Ambient,Ambient,0.362,0.39,4,-14.868,1,0.035,0.592,0.981,0.126,0.0944,104.886,1XpGeemvpnq2PMtuAkUXuP,260187,4
+261,Slow Light 2 - Ambient,Wait For Me Ambient,Ambient,0.212,0.157,0,-30.229,1,0.0415,0.97,0.959,0.128,0.127,137.075,0vdr2w6hinAwfbW1kP88CZ,189320,5
+262,Division,Wait for Me (Deluxe Edition),Studio,0.101,0.267,2,-14.185,1,0.0397,0.301,0.878,0.112,0.034,90.859,7csNKD9UUt2d1Yr3cmz3Ca,116813,4
+263,Pale Horses,Wait for Me (Deluxe Edition),Studio,0.463,0.597,2,-8.86,0,0.0296,0.104,0.493,0.158,0.4,93.058,5fIHnqwt4wwkbIwi88yOyJ,217080,4
+264,Shot In the Back of the Head,Wait for Me (Deluxe Edition),Studio,0.365,0.28,0,-9.236,1,0.0337,0.412,0.903,0.156,0.375,97.619,0YIuHJJjR7W8fLAKJKrm6A,195547,4
+265,Study War,Wait for Me (Deluxe Edition),Studio,0.38,0.516,7,-8.897,0,0.0334,0.647,0.095,0.255,0.0716,104.71,1Qok7h119MjfxUq8tZnSg8,258267,4
+266,Walk with Me,Wait for Me (Deluxe Edition),Studio,0.292,0.389,9,-14.498,0,0.0437,0.532,0.122,0.293,0.0913,88.864,7k0URKmtsbqIYcmn4ADTyD,241387,4
+267,Stock Radio,Wait for Me (Deluxe Edition),Studio,0.172,0.0944,0,-21.575,1,0.0386,0.786,0.946,0.116,0.0256,69.508,1HODiNd9EKL9x0TjdP0fe9,55320,1
+268,Mistake,Wait for Me (Deluxe Edition),Studio,0.599,0.7,4,-8.043,0,0.0328,0.00493,0.0821,0.0954,0.168,125.018,65vwf9LJ27bvvCaC6Jk3qM,227227,4
+269,Scream Pilots,Wait for Me (Deluxe Edition),Studio,0.499,0.648,4,-8.425,0,0.0276,0.0523,0.818,0.161,0.13,131.021,6iZjz9YHfAdC0I1jDrsjdr,168547,4
+270,Jltf 1,Wait for Me (Deluxe Edition),Studio,0.224,0.147,6,-22.504,0,0.0449,0.991,0.978,0.209,0.0302,136.219,6gRiA3D2HHKpxgINU3XAm2,87013,5
+271,Jltf,Wait for Me (Deluxe Edition),Studio,0.38,0.337,4,-12.875,1,0.0293,0.644,0.668,0.104,0.0829,104.639,3DLaBdbfAINkga0km3xMRv,280200,4
+272,A Seated Night,Wait for Me (Deluxe Edition),Studio,0.118,0.363,0,-11.367,1,0.0341,0.946,0.94,0.128,0.0373,93.917,0EezaQByKIzDDlk0MT8pSl,203520,4
+273,Wait for Me,Wait for Me (Deluxe Edition),Studio,0.306,0.333,4,-12.734,0,0.0325,0.922,0.0869,0.101,0.194,164.027,5k4Y3pLqHV7F2PUHL9ZQWl,253547,4
+274,Hope Is Gone,Wait for Me (Deluxe Edition),Studio,0.3,0.23,2,-14.476,0,0.0349,0.953,0.472,0.157,0.0539,105.294,69nQjh8lp6jfL01n8MxMqn,211227,4
+275,Ghost Return,Wait for Me (Deluxe Edition),Studio,0.203,0.401,5,-15.477,0,0.0319,0.877,0.312,0.231,0.0513,104.983,7zyBnK11Pd84jxECK4CE1l,158480,4
+276,Slow Light,Wait for Me (Deluxe Edition),Studio,0.327,0.383,0,-9.183,1,0.0281,0.125,0.709,0.647,0.0357,95.014,7sRqOFTbJzwCbCxHhOXsWQ,240653,4
+277,Isolate,Wait for Me (Deluxe Edition),Studio,0.53,0.272,9,-16.798,0,0.0299,0.906,0.935,0.149,0.135,135.992,2VUblgP5cmZYMeAlDlr98e,208347,4
+278,One Time We Lived,Wait for Me (Deluxe Edition),Studio,0.648,0.857,4,-7.076,0,0.0358,0.000295,0.000203,0.0692,0.757,107.992,5WDRkZhlea7OBxqV2mORyp,260120,4
+279,Stay Down,Wait for Me (Deluxe Edition),Studio,0.495,0.734,6,-10.415,0,0.0546,0.00219,0.949,0.101,0.298,123.99,4qLMCeWR9eFCrIMT3M7XPH,422760,4
+280,A Seated Night - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.104,0.142,0,-17.518,1,0.0407,0.993,0.907,0.0834,0.0298,74.786,5e5apiIcMHW99NEUdwpz3K,235720,3
+281,Study War - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.0631,0.308,2,-15.994,0,0.042,0.928,0.884,0.273,0.0392,71.799,7Afknmu7BWqsFnzOHxs8ps,270160,3
+282,Pale Horses - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.191,0.17,7,-14.833,0,0.0379,0.978,0.91,0.0979,0.054,132.497,2ruTNztNMTKcHFdGqII6e1,295680,3
+283,Stay Down - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.219,0.56,6,-17.211,0,0.0615,0.987,0.877,0.128,0.0485,123.469,7FwHjZ9AeBPnhhWE6TfOkk,397080,3
+284,Hope Is Gone - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.314,0.276,5,-15.406,1,0.0354,0.975,0.92,0.16,0.0576,136.999,5osu9Xf3hROZgWgbUcvDds,188120,3
+285,Wait For Me - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.101,0.0897,4,-18.367,0,0.039,0.989,0.301,0.112,0.176,79.002,3TvtoxQFKjOTqAHQhwfT8h,265200,4
+286,Division - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.199,0.21,2,-18.577,1,0.0402,0.963,0.983,0.149,0.0326,68.289,2CJfya2y1gqDDLRlQgpLFG,97533,3
+287,Mistake - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.0964,0.361,4,-16.534,0,0.0477,0.877,0.856,0.162,0.0363,76.454,1yqgb0HkUxSvgByvouIJWD,216827,5
+288,Walk With Me - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.146,0.31,9,-16.897,0,0.0361,0.987,0.764,0.643,0.049,91.442,4UDoDMgG17Yr5yjpJPxLp0,177880,3
+289,Isolate - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.159,0.211,7,-21.836,1,0.0439,0.987,0.962,0.141,0.0908,87.114,0YRHzpgUGydWYLFId3p5RS,188147,3
+290,Shot In The Back Of The Head - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.367,0.132,0,-18.698,1,0.0316,0.97,0.899,0.125,0.0399,98.02,1DUKPNb0orB4JMdnd07oNs,195773,4
+291,Slow Light 1 - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.176,0.42,0,-16.735,1,0.045,0.95,0.987,0.132,0.0375,140.486,4DkTBJ3OLQQh7nE5cQYAR8,184173,5
+292,Ghost Return - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.458,0.333,5,-17.648,0,0.0343,0.907,0.000167,0.276,0.162,110.833,7ntIjCbYnSLMQF1SQI7baI,153840,4
+293,Scream Pilots - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.167,0.102,4,-20.437,0,0.0452,0.976,0.9,0.0753,0.0357,134.78,7k6LlOcBhsrzu7DRcD6x6o,469253,3
+294,Jltf-3 - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.32,0.39,4,-14.874,1,0.0361,0.594,0.981,0.126,0.0907,104.87,1lCMsDevfgmjxzh5AXcSAQ,260187,4
+295,Slow Light 2 - Ambient Mix,Wait for Me (Deluxe Edition),Studio,0.216,0.157,0,-30.229,1,0.0416,0.97,0.959,0.128,0.127,135.681,33de68d5KCtWAlj1EocnNL,189320,5
+296,I Love to Move in Here - Holy Ghost! Remix,Last Night Remixed,Remix,0.82,0.685,1,-5.96,0,0.106,0.0975,0.901,0.216,0.693,124.174,5wfpY7mcF7EWH6Bspjltbv,303787,4
+297,Ooh Yeah - Kris Menace Remix,Last Night Remixed,Remix,0.574,0.958,9,-4.85,1,0.062,0.00257,0.00363,0.571,0.736,124.618,0qcSnp76QdwTALDNJBm9sa,231200,4
+298,Live for Tomorrow - Tocadisco Remix,Last Night Remixed,Remix,0.649,0.834,7,-8.127,1,0.0457,0.00183,0.833,0.386,0.0419,125.823,2FvY2MlSUkRHVHkJU4afUJ,319227,4
+299,I'm In Love - The Shapeshifters Maximal Remix,Last Night Remixed,Remix,0.647,0.847,4,-7.411,0,0.0631,0.00351,0.631,0.126,0.561,126.544,663xwvivIOPvECOsZ5axMH,423053,4
+300,Disco Lies - Freemasons Club Mix,Last Night Remixed,Remix,0.634,0.941,5,-5.691,1,0.0583,0.000745,0.348,0.53,0.224,126.969,27rO3MecqLkXuJIyXNQuyL,332667,4
+301,I Love to Move in Here - Seamus Haji Club Mix,Last Night Remixed,Remix,0.639,0.961,10,-6.117,0,0.0914,0.202,1.72e-05,0.326,0.495,127.357,2rJsQLU87QEdHQ8Ud0B3qT,361760,4
+302,Alice - General Midi Remix,Last Night Remixed,Remix,0.677,0.951,11,-5.948,0,0.184,0.012,0.000652,0.368,0.596,128.659,51WqEtrSmp8iGNgzsH4pvX,315293,4
+303,The Stars - AC Slater Remix,Last Night Remixed,Remix,0.58,0.959,0,-5.156,1,0.0426,0.00778,0.701,0.329,0.567,130.186,6GAOSpiDCHoyyhgOGB5m4T,276880,4
+304,Disco Lies - Spencer & Hill Remix,Last Night Remixed,Remix,0.667,0.947,7,-5.658,1,0.0746,0.00653,0.0237,0.407,0.355,130.428,1n7VG62lu6WwkIeQs8o85V,327587,4
+305,Alice - Drop The Lime - Heavy Bass Remix,Last Night Remixed,Remix,0.724,0.914,1,-5.884,0,0.139,0.0254,0.00415,0.737,0.558,130.441,4MR3XoqY1iLWZ524TxlxvA,195053,4
+306,Ooh Yeah - D.Ramirez Haunted Playground Remix,Last Night Remixed,Remix,0.805,0.883,4,-6.241,0,0.0874,0.0055,0.623,0.11,0.156,130.39,6sICPNPeGx94mlys4aHWVG,349733,4
+307,I'm In Love - Mason Remix,Last Night Remixed,Remix,0.673,0.905,1,-9.297,1,0.0532,0.121,0.919,0.149,0.44,130.467,5Rx6q3lxT8OSl5ylRB1Kti,325573,4
+308,I Love To Move In Here - Style of Eye Piano Remix,Last Night Remixed,Remix,0.76,0.651,11,-10.372,0,0.066,0.26,0.847,0.135,0.0469,130.481,18ggTJCYOyhdqrP7tHp1Sq,353973,4
+309,Last Night,Last Night Remixed,Remix,0.217,0.255,2,-14.354,0,0.0358,0.912,0.194,0.333,0.0391,153.171,1clEHSv0cfhk3HUGgmJMgz,347333,3
+310,Last Night - Remixed,Last Night Remixed,Remix,0.468,0.858,4,-6.698,0,0.0764,0.0214,0.219,0.0881,0.184,128.923,5pIgw4K2xACp42fFmzKkis,4463120,4
+311,Honey,Play & Play: B Sides,Studio,0.824,0.693,8,-8.574,1,0.033,0.13,0.224,0.0672,0.76,102.11,7DWsNvglPFiDuaSkkuBOtH,209493,4
+312,Find My Baby,Play & Play: B Sides,Studio,0.664,0.74,7,-6.806,1,0.0624,0.00197,0.0423,0.259,0.575,93.983,3FD3ZGPyd8orzzwrZw2T6x,239400,4
+313,Porcelain,Play & Play: B Sides,Studio,0.297,0.634,0,-7.927,0,0.0335,0.00141,0.175,0.247,0.331,94.733,5fJAYWoFgXm26HLNViFiUh,241173,4
+314,Why Does My Heart Feel So Bad?,Play & Play: B Sides,Studio,0.598,0.624,7,-6.923,1,0.0332,0.00108,0.0755,0.0826,0.0451,98.004,22folQ3QnjKJJbLio4clzr,264827,4
+315,South Side,Play & Play: B Sides,Studio,0.611,0.724,4,-7.572,1,0.0421,0.0104,0.0452,0.0748,0.45,97.148,0Z2zNMZV5kuRIQzf9cOgZc,229733,4
+316,Rushing,Play & Play: B Sides,Studio,0.523,0.448,7,-10.116,1,0.0406,0.0115,0.946,0.0896,0.574,169.998,2k4e26sT707SQ0JNYkhiFJ,180267,4
+317,Bodyrock,Play & Play: B Sides,Studio,0.655,0.862,6,-8.082,0,0.0445,0.000923,0.546,0.151,0.356,107.993,6P0d6HGaGTbW26ngcMpdko,216440,4
+318,Natural Blues,Play & Play: B Sides,Studio,0.681,0.653,3,-7.891,0,0.0326,0.0465,0.0563,0.276,0.654,107.989,19aUcBFBrXbsAcucaVFBjW,253760,4
+319,Machete,Play & Play: B Sides,Studio,0.612,0.867,6,-8.82,0,0.0479,0.00187,0.122,0.109,0.172,134.051,5WVkptd9DhRYLJluY8Vml8,217733,4
+320,7,Play & Play: B Sides,Studio,0.688,0.478,11,-11.575,0,0.0594,0.000423,0.92,0.0896,0.479,89.126,4fAXpC2d8H49Ke6f2EA0zO,62040,4
+321,Run On,Play & Play: B Sides,Studio,0.768,0.604,11,-9.589,1,0.1,0.297,0.000275,0.189,0.536,96.955,36gacJqPh1BbHAnAkfXcxD,225133,4
+322,Down Slow,Play & Play: B Sides,Studio,0.7,0.205,4,-14.707,1,0.0373,0.682,0.965,0.128,0.469,82.185,3CFMjcmSGBvetalLt6SEFE,94867,4
+323,If Things Were Perfect,Play & Play: B Sides,Studio,0.667,0.531,5,-12.369,1,0.0917,0.162,0.835,0.326,0.103,165.831,5j8aZaWFDix5gtRzfa3lIp,258627,4
+324,Everloving,Play & Play: B Sides,Studio,0.521,0.338,4,-13.415,0,0.033,0.404,0.814,0.0908,0.231,83.817,2NDcqkHHJC2kZzTdUn3Put,205573,4
+325,Inside,Play & Play: B Sides,Studio,0.552,0.257,2,-17.753,1,0.0306,0.843,0.918,0.106,0.0399,95.032,2Wk13YGMXx7imcZs5uoyjl,288600,4
+326,Guitar Flute & String,Play & Play: B Sides,Studio,0.0809,0.0563,4,-23.507,0,0.0409,0.88,0.893,0.12,0.151,41.089,0ODEdDRage0gGE92M9hcPJ,129200,3
+327,The Sky Is Broken,Play & Play: B Sides,Studio,0.807,0.365,4,-13.665,0,0.039,0.725,0.277,0.0895,0.378,81.625,2Ag0I6hg1LMfvHtkRZ5zYd,258560,4
+328,My Weakness,Play & Play: B Sides,Studio,0.0905,0.316,4,-10.555,1,0.0326,0.189,0.222,0.371,0.0373,85.388,3GICsxgaaztTzDBJnd8MIk,218573,4
+329,Flower,Play & Play: B Sides,Studio,0.686,0.61,7,-5.902,1,0.0262,0.19,0.000966,0.071,0.767,80.567,1dzrG2Vo2LNH4vAQBHxqrT,206293,4
+330,Sunday,Play & Play: B Sides,Studio,0.687,0.63,11,-9.82,0,0.0461,0.16,0.953,0.105,0.108,126.004,1MlEzpmhHvABaukgsuMe6E,303440,4
+331,Memory Gospel,Play & Play: B Sides,Studio,0.438,0.368,2,-10.877,1,0.0265,0.483,0.959,0.11,0.0406,96.638,1r2uN6Mf4pzyIJ5PLx3KhS,402027,4
+332,Whispering Wind,Play & Play: B Sides,Studio,0.797,0.297,9,-11.122,0,0.0532,0.652,0.903,0.106,0.231,92.0,3m9DSf7nqmG7jxp8igdjxW,362667,4
+333,Summer,Play & Play: B Sides,Studio,0.587,0.781,7,-7.967,1,0.0324,0.0162,0.749,0.0754,0.0767,95.014,7lnsGIbfPDeo7ysuuthHEa,358040,4
+334,Spirit,Play & Play: B Sides,Studio,0.464,0.408,0,-9.933,1,0.0277,0.000836,0.765,0.0937,0.0653,144.982,4tth41lsb9ujrn75SviQ3p,248733,4
+335,Flying Foxes,Play & Play: B Sides,Studio,0.542,0.566,2,-10.391,1,0.0315,0.000251,0.913,0.106,0.136,94.996,0I3xAQDOUvEgKBjJJVYaP4,376400,4
+336,Sunspot,Play & Play: B Sides,Studio,0.697,0.39,0,-13.733,1,0.0413,0.274,0.881,0.113,0.592,87.693,23ssxzHwUtT2870hGWZFXo,409400,4
+337,Flying Over the Dateline,Play & Play: B Sides,Studio,0.502,0.514,11,-14.635,0,0.0888,0.198,0.598,0.0881,0.243,109.993,5zJHrpXSUzggtv4X7euoYL,287360,3
+338,Running,Play & Play: B Sides,Studio,0.548,0.555,1,-13.54,1,0.0373,0.0868,0.788,0.0844,0.856,140.014,6K2Co7sviTcG65a4WCMs2m,425733,4
+339,The Sun Never Stops Setting,Play & Play: B Sides,Studio,0.224,0.37,2,-13.216,1,0.0337,0.277,0.902,0.135,0.124,60.607,58ymBSWARqMKr99QeMLy5m,260840,5
+340,Ooh Yeah,Last Night,Studio,0.425,0.765,4,-5.763,1,0.0401,0.00776,0.000138,0.11,0.329,197.62,3TwfAgMEfaerj8XmrMZZRb,318787,4
+341,I Love to Move in Here,Last Night,Studio,0.728,0.681,5,-8.3,0,0.0626,0.243,0.0817,0.14,0.789,106.378,6JsPM0BvsntbVnVvpmiyet,284547,4
+342,257.zero,Last Night,Studio,0.616,0.841,9,-5.31,1,0.0409,0.00159,0.94,0.229,0.719,123.819,1BMdbTdnVpj6RQEuaqctTB,217493,4
+343,Everyday It's 1989,Last Night,Studio,0.69,0.809,8,-5.697,0,0.096,0.00256,0.916,0.0399,0.771,123.88,6pQpOyhihUioiRj5q8AOcA,220320,4
+344,Live for Tomorrow,Last Night,Studio,0.492,0.774,5,-5.046,0,0.0425,0.069,0.0108,0.141,0.131,103.305,3fURd5OXJpRUlgVFfUh5ph,242493,4
+345,Alice,Last Night,Studio,0.581,0.858,5,-6.519,1,0.0428,0.00941,0.0353,0.146,0.23,94.921,7ipxwkIuFxlCxIqXPPCxME,266867,4
+346,Hyenas,Last Night,Studio,0.418,0.69,2,-7.602,0,0.0286,0.0455,0.921,0.42,0.15,93.901,1mKUhHF3Oa7CqbJs8Rryx0,215107,4
+347,I'm In Love,Last Night,Studio,0.599,0.652,4,-8.548,0,0.0815,0.25,0.524,0.111,0.571,125.809,6khf0Ip1zo6KEHIaqTL4YG,222480,4
+348,Disco Lies,Last Night,Studio,0.634,0.915,9,-5.132,0,0.0713,0.086,0.000357,0.158,0.281,118.877,59mO1rcSR3teX2by8mcnKP,202880,4
+349,The Stars,Last Night,Studio,0.573,0.779,0,-6.719,1,0.051,0.00195,0.0253,0.15,0.36,130.696,3zeQUUDQgTHPDeUA9GLUa4,261040,4
+350,Degenerates,Last Night,Studio,0.343,0.542,1,-11.655,0,0.0443,0.86,0.866,0.367,0.128,84.854,2r5ALEV1xvgzWZATAKN5a0,238333,4
+351,Sweet Apocalypse,Last Night,Studio,0.505,0.693,2,-9.008,1,0.0298,0.384,0.885,0.0641,0.0355,119.886,0t2mxyaHFH49BKwVw3OBKt,318853,4
+352,Mothers of the Night,Last Night,Studio,0.477,0.646,7,-10.822,1,0.0364,0.802,0.899,0.148,0.427,108.935,1GAIrNvwKVlMY4fo35i1Ok,199533,4
+353,Last Night,Last Night,Studio,0.217,0.255,2,-14.354,0,0.0358,0.912,0.194,0.333,0.0391,153.171,49LRMEMSbQWQnORYAMuKjk,347333,3
+354,Hotel Intro,Hotel,Studio,0.56,0.499,8,-10.208,1,0.0393,0.414,0.933,0.194,0.0733,94.937,1xGdfqixflwehUauI56NYC,115267,4
+355,Raining Again,Hotel,Studio,0.601,0.791,2,-6.83,1,0.0394,0.0358,0.127,0.0486,0.78,117.834,4vfrm29dI3DOasF0oZv093,226000,4
+356,Beautiful,Hotel,Studio,0.485,0.655,2,-6.421,1,0.0695,0.14,0.115,0.158,0.63,169.567,1Lh2BYY3yV297Y8ka2CMs3,191907,4
+357,Lift Me Up,Hotel,Studio,0.581,0.889,7,-6.617,1,0.0595,0.0011,0.00125,0.155,0.391,120.961,2YreZaYOabnHmyj6HGayoX,199293,4
+358,Where You End,Hotel,Studio,0.611,0.814,11,-7.922,0,0.032,0.0829,0.0689,0.15,0.621,122.975,4wR1Yj33PMle4jxKKRORZD,202040,4
+359,Temptation,Hotel,Studio,0.604,0.109,2,-14.75,1,0.0338,0.601,0.000319,0.0978,0.383,89.984,5zZ1EqKm3b8VEw1FICPc0H,295467,4
+360,Spiders,Hotel,Studio,0.498,0.805,11,-6.563,1,0.05,0.0658,0.0394,0.0966,0.642,159.927,2GhJ2DKzL7trGRZaPpflIA,225267,4
+361,Dream About Me,Hotel,Studio,0.598,0.521,5,-9.348,1,0.0278,0.0378,0.00104,0.0913,0.321,117.967,4VnrrYtsi1UUsw4HFA4TYq,201493,4
+362,Very,Hotel,Studio,0.555,0.847,2,-7.67,1,0.0426,0.00129,0.00181,0.126,0.447,123.843,603VTvkSmZa6ETDw3E3Q2B,222867,4
+363,I Like It,Hotel,Studio,0.708,0.312,2,-12.002,1,0.212,0.257,0.512,0.116,0.615,84.977,5PeOnKBYokaKPJh7pqo0fW,226120,4
+364,Love Should,Hotel,Studio,0.579,0.358,2,-10.668,1,0.0255,0.234,0.038,0.139,0.284,101.924,2QaIQl0jNZ4HqkOgMTpOD9,231720,4
+365,Slipping Away,Hotel,Studio,0.591,0.696,11,-7.988,0,0.0291,0.011,2.26e-06,0.336,0.642,117.859,2YTYHjhDRyG9Flz0JmD6Jj,219293,4
+366,Forever,Hotel,Studio,0.66,0.237,7,-13.19,1,0.042,0.217,0.866,0.0853,0.672,94.873,2tRDKfrqRDt1pUEv5rPzrA,219013,4
+367,Homeward Angel,Hotel,Studio,0.383,0.284,7,-11.739,1,0.034,0.402,0.939,0.338,0.0708,119.684,7aRcCPX4FJNbpKylz8ujIN,350493,4
+368,We Are All Made of Stars,18 & 18 B-Sides,Studio,0.623,0.57,2,-8.433,1,0.0266,0.0467,0.635,0.182,0.376,112.04,2iY8UnADwZLUG2XrBGL2Dv,273213,4
+369,In This World,18 & 18 B-Sides,Studio,0.58,0.701,4,-6.643,1,0.045,0.012,0.0181,0.302,0.263,104.967,77tJlraFq64xilqyyxkhtH,242520,4
+370,In My Heart,18 & 18 B-Sides,Studio,0.564,0.789,4,-10.064,1,0.0308,0.00101,0.0457,0.21,0.177,114.021,1ri0jogXgL9CSgFGucTNvR,276693,4
+371,Great Escape,18 & 18 B-Sides,Studio,0.15,0.0767,7,-18.397,1,0.0344,0.734,0.00167,0.223,0.23,50.821,1DWKDku5UsWVRUSKQSx4wm,128840,4
+372,Signs of Love,18 & 18 B-Sides,Studio,0.269,0.536,7,-10.476,1,0.0361,0.206,0.639,0.14,0.0947,181.848,2dQCRD8xXk9XNQPEsskl9T,266200,4
+373,One of These Mornings,18 & 18 B-Sides,Studio,0.483,0.459,11,-8.314,0,0.0326,0.167,0.655,0.0858,0.0523,91.789,1zCn7jmXyfLW4mqyl3Vqsb,192693,4
+374,Another Woman,18 & 18 B-Sides,Studio,0.598,0.437,11,-11.587,0,0.0363,0.0764,0.831,0.123,0.546,110.877,6olVTknHt8xSzEFwE8TK9T,236053,4
+375,Fireworks,18 & 18 B-Sides,Studio,0.491,0.256,0,-14.552,1,0.0351,0.833,0.967,0.13,0.1,144.049,0OULx41EjSBA72kRkdbOmw,133360,4
+376,Extreme Ways,18 & 18 B-Sides,Studio,0.511,0.782,9,-7.934,0,0.0486,0.00112,0.000825,0.11,0.551,100.002,5dcUUklOiH01fVEH5pmWRs,237640,4
+377,Jam for the Ladies,18 & 18 B-Sides,Studio,0.763,0.524,7,-9.994,1,0.0487,0.0322,0.00112,0.0892,0.338,100.029,2MGnkIWA0T94GEGfjx14Be,201960,4
+378,Sunday (The Day Before My Birthday),18 & 18 B-Sides,Studio,0.603,0.679,9,-10.334,0,0.0352,0.000921,0.801,0.426,0.331,95.003,56MWOfCyw5XbBMdrLGcX6I,309280,4
+379,18,18 & 18 B-Sides,Studio,0.48,0.126,7,-17.626,1,0.0305,0.861,0.892,0.0588,0.05,105.996,0hK7zJxDmo4K1ffAHq73M0,268813,4
+380,Sleep Alone,18 & 18 B-Sides,Studio,0.424,0.256,2,-14.983,0,0.0315,0.887,0.772,0.12,0.418,88.07,1v9dObUYUHAdpmShqi8VI2,285360,4
+381,At Least We Tried,18 & 18 B-Sides,Studio,0.634,0.291,0,-12.807,1,0.0286,0.254,0.00219,0.0783,0.217,72.007,5Gh9ZIc8NjGorZpsfpsabK,248707,4
+382,Harbour,18 & 18 B-Sides,Studio,0.553,0.382,2,-13.121,1,0.0234,0.18,0.429,0.0907,0.0952,92.038,0kTPOJQ8ShLwqot7pfuj54,387573,4
+383,Look Back In,18 & 18 B-Sides,Studio,0.498,0.364,7,-9.76,0,0.0256,0.229,0.894,0.0985,0.153,77.801,4SPjXvFaO5Md8EXeCXKCkz,140613,4
+384,The Rafters,18 & 18 B-Sides,Studio,0.538,0.52,4,-9.113,1,0.0432,0.0307,0.948,0.357,0.333,125.846,4TDCgKYqC9wERTm2yg1Arq,202320,4
+385,I’m Not Worried at All,18 & 18 B-Sides,Studio,0.534,0.275,1,-11.256,1,0.0272,0.755,0.884,0.346,0.049,105.045,7CCSNr1SqFdOTHiTW7hiY5,253907,3
+386,Landing,18 & 18 B-Sides,Studio,0.567,0.72,7,-9.791,1,0.0282,0.0886,0.809,0.364,0.47,113.0,3lQz6LAbFAiYzIgox8nB6N,224027,4
+387,Love of Strings,18 & 18 B-Sides,Studio,0.474,0.636,7,-7.998,1,0.0322,0.0193,0.899,0.116,0.103,107.03,3nCInWtDkL9JFggs8ViyGa,370640,4
+388,Nearer,18 & 18 B-Sides,Studio,0.501,0.418,1,-11.153,1,0.0281,0.466,0.761,0.11,0.116,90.978,4zMrbNJ1naVSaqm9tpYjao,259200,4
+389,Afterlife,18 & 18 B-Sides,Studio,0.493,0.392,9,-8.893,0,0.0253,0.0321,0.885,0.182,0.262,84.997,5lcmEdPFKJBDly7vP6HGwr,236027,4
+390,String Electro,18 & 18 B-Sides,Studio,0.436,0.706,1,-6.942,0,0.0292,0.00461,0.916,0.273,0.0581,106.528,14DTNcE999blkNzGwwhBzz,416867,4
+391,Downhill,18 & 18 B-Sides,Studio,0.532,0.468,11,-11.553,0,0.0282,0.622,0.809,0.0932,0.37,109.58,13wtSsoaOGnekcyZe0l5Iq,319773,4
+392,Soul to Love,18 & 18 B-Sides,Studio,0.44,0.686,0,-6.484,1,0.0363,0.00912,0.888,0.18,0.377,124.014,6MIE2Ssoe3V4Vr0U1LiHbT,267933,4
+393,Bed,18 & 18 B-Sides,Studio,0.67,0.705,4,-10.125,1,0.0789,0.118,0.924,0.0785,0.842,125.019,5FhBvv2ZDwrSI18UB3I7k9,257027,4
+394,Piano & Strings,18 & 18 B-Sides,Studio,0.379,0.399,4,-11.409,0,0.0381,0.0156,0.858,0.479,0.0347,83.955,4E1WP1jdN239BZB5fPZRna,318000,4
+395,Horse & Carrot,18 & 18 B-Sides,Studio,0.631,0.535,10,-8.168,0,0.0415,0.00546,0.95,0.103,0.0363,117.988,3XhRHD2ftCsj0SnxESBpnL,414000,4
+396,Life’s so Sweet,18 & 18 B-Sides,Studio,0.56,0.32,4,-8.981,0,0.0277,0.128,0.953,0.0731,0.199,104.027,0jXZCliAfXPEzGVhpQS2Jy,392600,4
+397,ISS,18 & 18 B-Sides,Studio,0.558,0.363,0,-17.287,1,0.0326,0.632,0.921,0.106,0.269,94.013,0lRmJ7qaB0TwlyoztSvfV2,524707,4
+398,Stay,18 & 18 B-Sides,Studio,0.567,0.372,7,-13.054,1,0.0278,0.248,0.277,0.0607,0.533,75.037,1lgcCq0fspJTIDzMCSfanM,190733,4
+399,First Cool Hive,Songs 1993 - 1998,Studio,0.546,0.758,6,-9.664,0,0.0379,0.000753,0.525,0.89,0.294,100.96,2nJKZYsbwMUVGWarhXA8wo,316440,4
+400,Go,Songs 1993 - 1998,Studio,0.616,0.737,4,-9.482,0,0.0473,0.00028,0.91,0.0624,0.653,134.028,1Wd5WtUpNDdeGAui5kN4qB,239733,4
+401,Into the Blue,Songs 1993 - 1998,Studio,0.521,0.365,7,-12.39,1,0.0246,0.0816,0.00239,0.144,0.0783,95.0,0GdUNhYKrfh2EcMqTODeAq,332800,4
+402,Now I Let It Go,Songs 1993 - 1998,Studio,0.178,0.205,9,-14.252,0,0.0343,0.883,0.79,0.119,0.0395,73.884,1Uj79rRZ7NWTWkBbT7ImAz,129653,4
+403,Move - You Make Me Feel so Good,Songs 1993 - 1998,Studio,0.525,0.867,9,-8.57,0,0.0313,5.51e-05,0.626,0.126,0.278,131.964,4IuN80kPgJynpC1820DtF0,217013,4
+404,I Like to Score,Songs 1993 - 1998,Studio,0.791,0.888,1,-5.682,0,0.216,2.25e-05,0.9,0.0606,0.52,91.032,76QnA6ibVitEYbVD4SELYV,141160,4
+405,Anthem,Songs 1993 - 1998,Studio,0.488,0.938,8,-5.619,1,0.0404,2.84e-05,0.0751,0.138,0.484,145.973,0TmXkiyWsDyjESV5Jf6Mt4,207400,4
+406,Hymn,Songs 1993 - 1998,Studio,0.49,0.314,5,-14.889,0,0.0409,0.728,0.956,0.14,0.147,115.019,7CRmB294aR6Kq64rqDC0lh,197600,4
+407,Feeling so Real,Songs 1993 - 1998,Studio,0.375,0.667,7,-6.243,1,0.0361,3.11e-05,0.0225,0.673,0.442,162.965,6A66ij26eOhBoMyFhbY493,202800,4
+408,God Moving over the Face of the Waters,Songs 1993 - 1998,Studio,0.37,0.389,2,-10.341,1,0.0289,0.578,0.956,0.165,0.0905,101.009,44popH5Cn6SuButI40fovC,345627,4
+409,Alone,Songs 1993 - 1998,Studio,0.496,0.584,2,-17.418,1,0.0417,0.624,0.929,0.111,0.291,132.027,0bhshcQuVf8bQU51OrUwT0,646867,4
+410,Novio,Songs 1993 - 1998,Studio,0.172,0.254,6,-12.44,1,0.0319,0.636,0.102,0.098,0.0607,78.74,6sRJbqVhTNt7YRELMA0xzO,158960,4
+411,The Rain Falls and the Sky Shudders,Songs 1993 - 1998,Studio,0.402,0.11,0,-30.056,1,0.0383,0.807,0.941,0.0917,0.115,163.908,33HYCkqJQrJLnTzSTdCC4z,376667,4
+412,When It's Cold I'd Like to Die,Songs 1993 - 1998,Studio,0.0714,0.207,0,-14.578,1,0.037,0.292,6.92e-05,0.0889,0.0393,77.434,6lt0n64oxW2Cwvjf4zBkcT,255333,3
+413,Living,Songs 1993 - 1998,Studio,0.572,0.287,7,-11.724,1,0.0305,0.559,0.846,0.146,0.128,78.015,5UgfnW6nEVwpPrwx3eF0Dl,421200,4
+414,Grace,Songs 1993 - 1998,Studio,0.149,0.364,0,-20.474,1,0.0568,0.858,0.861,0.107,0.0364,66.655,0mKoLoxMhwHWVFpETD8teL,324133,4
+415,Novio,I Like to Score,Studio,0.316,0.294,6,-11.721,1,0.0301,0.589,0.0812,0.112,0.0456,75.063,6NXfxYhlj4gjErXGzh7HXs,158560,4
+416,James Bond Theme - Moby's Re-Version,I Like to Score,Studio,0.594,0.939,11,-4.193,1,0.0454,0.000219,0.874,0.327,0.375,124.147,5t0epjD9soz66wY99No8iu,203373,4
+417,Go - I Like to Score Version,I Like to Score,Studio,0.618,0.778,4,-7.762,0,0.0467,0.000248,0.878,0.0542,0.651,134.032,3FyCUDuq30QbxeBq3yhQDH,239867,4
+418,Ah-ah,I Like to Score,Studio,0.527,0.839,7,-5.279,0,0.0319,2.25e-06,0.653,0.246,0.334,135.959,0dARMlngoPwzeR2xLhfaFI,144000,4
+419,I Like to Score,I Like to Score,Studio,0.79,0.863,1,-6.673,0,0.217,2.13e-05,0.924,0.074,0.536,91.018,7dsPkt2xbhrnltGfNeHZrs,141427,4
+420,Oil 1,I Like to Score,Studio,0.476,0.973,8,-6.47,1,0.0619,4.79e-05,0.947,0.379,0.68,139.995,6qb1w0UCXM1HT6acpWEVIU,291733,4
+421,New Dawn Fades,I Like to Score,Studio,0.411,0.731,9,-4.911,1,0.0339,0.00847,0.00416,0.095,0.202,119.986,5Q5i1Nym5L7aOrQPwX0amF,334200,4
+422,God Moving Over the Face of the Waters,I Like to Score,Studio,0.154,0.371,2,-11.332,1,0.0325,0.565,0.938,0.225,0.0645,100.745,6QFBegIoqh97oYMc82VsRb,344867,4
+423,First Cool Hive - Alternate Version,I Like to Score,Studio,0.547,0.773,6,-9.701,0,0.0358,0.000277,0.0799,0.666,0.378,100.961,4a6CE0NMhKEVu0kY5EYVIh,341667,4
+424,Nash,I Like to Score,Studio,0.576,0.0684,6,-22.733,0,0.0485,0.969,0.912,0.114,0.212,75.272,19DvEiMh9xnlfD35BxQjwz,83000,4
+425,Love Theme - From Joe's Apartment,I Like to Score,Studio,0.559,0.409,0,-9.212,1,0.0289,0.715,0.95,0.0702,0.0669,95.01,4b3Rr8dQZRM8j0RxYgQUmI,276800,4
+426,Grace,I Like to Score,Studio,0.13,0.349,0,-20.847,1,0.055,0.842,0.854,0.106,0.0363,69.063,6Lj2JbuMrPl8uSRLO5aH09,324733,4
+427,Dead Sun,Animal Rights,Studio,0.143,0.0779,6,-17.723,0,0.0468,0.776,0.731,0.119,0.04,103.255,6TWGpROj8uv6u8KeoJ4DVj,221573,4
+428,Someone to Love,Animal Rights,Studio,0.351,0.933,9,-6.572,0,0.0612,0.000181,0.0083,0.463,0.244,169.972,0kTJv39Ku97omelhud4TBw,189867,4
+429,Heavy Flow,Animal Rights,Studio,0.474,0.921,3,-6.01,0,0.122,3.58e-05,3.94e-05,0.333,0.211,123.645,6t9EPK3arUKThtlj70xQyu,116827,4
+430,You,Animal Rights,Studio,0.544,0.961,5,-4.879,1,0.0629,6.99e-05,6.72e-06,0.356,0.708,130.032,3rrmJLrbTVK70i2Ax0tmNs,153400,4
+431,Now I Let It Go,Animal Rights,Studio,0.287,0.214,9,-12.527,0,0.0327,0.903,0.843,0.136,0.0396,74.82,5TSnj6Mg8T0OGy4MXcafTg,129400,4
+432,Come on Baby,Animal Rights,Studio,0.474,0.968,11,-6.479,0,0.124,0.000567,7.29e-06,0.596,0.229,112.058,72VXsTiW9i3E65GbdOHWlm,270573,4
+433,Soft,Animal Rights,Studio,0.437,0.871,9,-7.51,0,0.05,0.000918,0.000699,0.601,0.252,75.016,3FVvvergWVwa4C7ArTGKvz,235000,4
+434,Anima,Animal Rights,Studio,0.472,0.545,2,-17.955,0,0.0316,0.0542,0.827,0.125,0.695,139.989,027hIFCDfrBYEcA5PGGhlF,146960,4
+435,Say It's All Mine,Animal Rights,Studio,0.443,0.819,6,-5.314,0,0.0362,0.000502,0.0156,0.115,0.131,143.812,3a83AdQomww3aY5RlPmOE5,364667,4
+436,That's When I Reach for My Revolver,Animal Rights,Studio,0.501,0.858,4,-5.23,1,0.0392,0.00617,5.6e-06,0.112,0.136,145.837,6aLbafvMNpUdiSdpd35w1K,235840,4
+437,Alone,Animal Rights,Studio,0.468,0.439,2,-20.378,1,0.0345,0.783,0.937,0.0968,0.255,132.04,6zz8t3AMLTTcfyaDuYHAMc,646960,4
+438,Face It,Animal Rights,Studio,0.279,0.633,0,-4.89,1,0.0377,0.00371,0.311,0.118,0.0575,131.049,06iVj3QNVxVpNzw9iBKiOQ,600973,4
+439,Old,Animal Rights,Studio,0.593,0.0297,7,-26.075,1,0.0341,0.988,0.884,0.0994,0.127,96.012,45UpTYKCPXsBvMzizO31kv,187533,4
+440,Living,Animal Rights,Studio,0.571,0.294,7,-11.628,1,0.0303,0.593,0.83,0.309,0.137,78.012,65ZcrFePFiU9Ifwuf1IACi,419533,4
+441,Love Song for My Mom,Animal Rights,Studio,0.159,0.161,2,-12.991,1,0.0333,0.933,0.946,0.113,0.0376,144.279,6C2IEMjPZTdYdFWI03zQhj,224267,4
+442,A Season in Hell,Animal Rights,Studio,0.0606,0.194,9,-14.547,1,0.0414,0.737,0.977,0.106,0.0377,59.442,5zAgoPLK3y9YsL58zPx2Tp,239360,4
+443,Hymn,Everything Is Wrong,Studio,0.451,0.303,5,-15.327,0,0.0402,0.715,0.949,0.17,0.146,115.04,7zVYyGDCG9ktOHntd7pCQK,197893,4
+444,Feeling so Real,Everything Is Wrong,Studio,0.373,0.635,7,-6.949,1,0.0379,3.6e-05,0.0526,0.391,0.374,162.985,0keRTgdGsbdzppVxqn30ex,201600,4
+445,All That I Need Is to Be Loved,Everything Is Wrong,Studio,0.499,0.911,0,-5.666,1,0.0424,1.05e-05,0.0198,0.379,0.321,137.01,2RKskStzfm0hOHmf949leh,163307,4
+446,Let's Go Free,Everything Is Wrong,Studio,0.317,0.935,2,-8.238,1,0.0877,1.47e-05,0.805,0.192,0.277,214.03,6W0K9hcy0WcYjwceR8fVUt,38467,4
+447,Everytime You Touch Me,Everything Is Wrong,Studio,0.63,0.861,4,-7.733,0,0.0374,0.0426,0.000289,0.295,0.475,141.873,0lAhfLrumsf60VtSqbOBgS,221760,4
+448,Bring Back My Happiness,Everything Is Wrong,Studio,0.577,0.945,0,-5.66,1,0.0454,0.0657,0.00124,0.0587,0.941,148.963,64GM77UJ5ii08FovTudB1V,192640,4
+449,What Love,Everything Is Wrong,Studio,0.392,0.812,2,-7.378,1,0.0466,0.00937,0.000389,0.173,0.251,105.193,6uOVbJqo7wnHp7XoaYVdKD,168360,4
+450,First Cool Hive,Everything Is Wrong,Studio,0.548,0.612,6,-14.269,0,0.0382,0.000664,0.66,0.861,0.328,100.977,6O07zhmbRucDwUX7MRxVtY,317200,4
+451,Into The Blue,Everything Is Wrong,Studio,0.505,0.29,7,-15.544,1,0.0258,0.0938,0.00231,0.128,0.0795,95.016,12qt4nPf5ih6lnJIXmrQhj,333640,4
+452,Anthem,Everything Is Wrong,Studio,0.495,0.888,8,-9.299,1,0.0369,1.77e-05,0.0933,0.199,0.529,145.989,0iCT90uJOYggQlswxRLTN7,207533,4
+453,Everthing is Wrong,Everything Is Wrong,Studio,0.443,0.0251,11,-26.763,0,0.0342,0.911,0.931,0.134,0.136,142.599,1oqrxPDYF3CmZYUOL1eGnv,74627,3
+454,God Moving Over the Face of the Waters,Everything Is Wrong,Studio,0.154,0.371,2,-11.332,1,0.0325,0.565,0.938,0.225,0.0645,100.745,4WxOFybmhNxHGnkPGBJzIE,344867,4
+455,When It's Cold I'd Like to Die,Everything Is Wrong,Studio,0.119,0.172,0,-15.907,1,0.036,0.32,0.000148,0.228,0.0387,82.423,0Pz9uepsUEc6aAaocXz4ha,254000,1
+456,My Beautiful Blue Sky,Ambient,Ambient,0.433,0.472,5,-16.577,1,0.0392,0.705,0.959,0.0935,0.516,187.323,02OL9tVAxwCirLwE6cQfuj,320600,4
+457,Heaven,Ambient,Ambient,0.645,0.768,4,-13.225,0,0.0466,0.000796,0.889,0.0902,0.231,120.804,37fVlVRadgPGiyR8Yo2hhr,496227,4
+458,Tongues,Ambient,Ambient,0.684,0.464,5,-16.506,1,0.0511,0.00129,0.941,0.116,0.0393,115.813,2ZymIf9kGrGbnDJAD932hu,337840,4
+459,J Breas,Ambient,Ambient,0.438,0.116,7,-18.719,1,0.0341,0.974,0.777,0.126,0.0727,95.716,2qHYRnrQD2DOXIQ358lWQp,167067,4
+460,Myopia,Ambient,Ambient,0.657,0.562,2,-26.172,1,0.0505,0.827,0.96,0.151,0.0768,119.861,0dYTIbXCOX2ok7iHmLQgc1,286667,4
+461,House of Blue Leaves,Ambient,Ambient,0.702,0.205,2,-25.923,1,0.0618,0.72,0.884,0.105,0.725,122.881,66SGK9hoZgRwOvmTe4oii8,381267,4
+462,Bad Days,Ambient,Ambient,0.583,0.504,6,-18.783,0,0.283,0.925,0.874,0.077,0.188,191.808,39KxeRDgWGErleMIGUU0HV,147267,4
+463,Piano & Strings,Ambient,Ambient,0.655,0.0257,11,-16.024,0,0.0575,0.757,0.685,0.177,0.365,67.192,65eLHdLXbgQaGzsmv1VdpO,95600,5
+464,Sound,Ambient,Ambient,0.64,0.415,2,-13.382,1,0.0442,0.987,0.972,0.148,0.752,128.875,6Xts2F8JtQIi1brgICe25f,71093,4
+465,Dog,Ambient,Ambient,0.706,0.579,2,-14.845,1,0.059,3.5e-05,0.76,0.0933,0.962,120.834,6XC67EWjUvrYCjtY634gD9,455240,4
+466,80,Ambient,Ambient,0.123,0.0416,4,-30.108,0,0.0363,0.704,0.875,0.109,0.0536,81.04,55ONsnc54YMOvLNmqXXdB5,125960,4
+467,Lean on Me,Ambient,Ambient,0.369,0.0455,4,-34.963,1,0.0351,0.734,0.89,0.101,0.128,123.973,5LLqvnQniBYNGdwTBPXUFS,232867,4
+468,Besame,Early Underground,Studio,0.823,0.838,4,-9.067,0,0.0682,0.000842,0.709,0.081,0.593,127.96,62u06AuXpErtIpaODjoJ3Y,222973,4
+469,Rock the House,Early Underground,Studio,0.734,0.988,9,-7.767,1,0.0783,0.00153,0.821,0.275,0.354,129.943,1r6BGGqmRCqRkWtrs5xMqa,272093,4
+470,Move the Colors,Early Underground,Studio,0.757,0.556,0,-11.925,1,0.0455,0.00639,0.836,0.0656,0.954,125.882,2EQo6SPQCNQabXLb9xjWyI,245400,4
+471,UHF 3,Early Underground,Studio,0.556,0.983,9,-10.018,0,0.0365,0.000516,0.96,0.31,0.881,129.946,6CMmdJ6MYmTVwAApwaBQ7P,315000,4
+472,Party Time,Early Underground,Studio,0.711,0.517,9,-13.094,1,0.0407,0.000137,0.857,0.101,0.534,125.895,6RcAZCTPJBML8sssg6Duv6,254973,4
+473,Protect Write,Early Underground,Studio,0.494,0.985,3,-10.273,1,0.0403,0.00477,0.931,0.111,0.9,122.933,5bOXNDLojFagUPQwiKmpAT,344000,4
+474,Go,Early Underground,Studio,0.714,0.673,0,-11.566,1,0.0429,0.0376,0.846,0.0928,0.451,125.894,6aPrIGxrnMvsyQJDbVXb3P,375027,4
+475,Permanent Green,Early Underground,Studio,0.748,0.818,7,-10.521,1,0.0613,0.000163,0.882,0.108,0.0732,123.901,0Kt2Hvtwtzr3moVR8RVgdf,349373,4
+476,Voodoo Child - Remix,Early Underground,Studio,0.775,0.68,11,-8.296,0,0.0519,0.00143,0.497,0.269,0.363,127.911,7rbIga9jiUKqNuJ87kW9XZ,236093,4
+477,Drug Fits the Face,Early Underground,Studio,0.773,0.659,4,-13.228,0,0.0504,0.000486,0.776,0.243,0.51,121.906,486GzzFQCMmrHaJWxsKRKd,231507,4
+478,Time Signature,Early Underground,Studio,0.665,0.328,4,-21.718,0,0.035,0.0416,0.908,0.114,0.499,121.636,1XGlsdKTz3Rsh7V01PdhwI,251667,4
+479,Peace Head,Early Underground,Studio,0.643,0.969,11,-10.711,1,0.0435,0.000155,0.903,0.748,0.692,139.017,5VJyJlEZ833fTlWTeSy12h,316427,4
+480,Barracuda,Early Underground,Studio,0.689,0.949,2,-4.311,1,0.0478,0.00582,0.849,0.0766,0.718,127.88,1O6cEyBOSx52zlGAFcm1ea,350640,4
+481,Mobility,Early Underground,Studio,0.676,0.385,10,-14.249,1,0.0449,0.0105,0.891,0.0967,0.0581,120.932,5kcfTbdKMuVCWEwXpKlZLa,371267,4
+482,M-Four,Early Underground,Studio,0.733,0.0854,4,-29.973,1,0.0543,0.906,0.943,0.111,0.287,122.898,1HqGoeif1UfHP1AxYIlCGu,205960,4
+483,Drop a Beat,Moby,Studio,0.73,0.924,1,-6.282,0,0.0542,0.000145,0.721,0.0387,0.94,130.968,5RIHJrMmats4UGOaOBk7Kn,260733,4
+484,Everything,Moby,Studio,0.521,0.625,8,-10.073,1,0.0304,0.000297,0.202,0.19,0.287,128.949,4x5Y9ORUjOQs5JZk2uJ9bN,292160,4
+485,Yeah,Moby,Studio,0.718,0.848,9,-12.899,1,0.0493,9.47e-06,0.892,0.0922,0.304,127.914,6ZJoLpqRFooyt3MWjMpm2G,348573,4
+486,Electricity,Moby,Studio,0.613,0.972,11,-9.444,0,0.0566,0.000296,0.891,0.362,0.39,129.919,2UHhNHMbtZ8LEbCiIH1mhv,209067,4
+487,Next Is the E,Moby,Studio,0.602,0.879,7,-8.188,1,0.046,0.000669,0.828,0.132,0.285,134.976,46MyKNmtcwoOxY53eox2NB,282027,4
+488,Mercy,Moby,Studio,0.61,0.627,11,-19.756,0,0.054,0.205,0.907,0.0728,0.244,120.877,486Madt6xxJ9De3IqDrUJQ,344133,4
+489,Go,Moby,Studio,0.675,0.868,4,-9.118,0,0.0572,4.82e-05,0.909,0.0875,0.539,125.843,0e8C9dPERvvARURkNOFrrC,217240,4
+490,Help Me to Believe,Moby,Studio,0.617,0.916,0,-5.632,1,0.0425,0.000171,0.847,0.0598,0.421,126.858,7jEd4lfoS0hLlgXEHhUAUZ,392067,4
+491,Have You Seen My Baby?,Moby,Studio,0.523,0.957,11,-7.12,0,0.046,1.68e-05,0.847,0.0907,0.458,133.001,0pLGHjhLD9ffWdFvQdnSVW,249093,4
+492,Ah-Ah,Moby,Studio,0.604,0.656,5,-11.489,0,0.0384,2.46e-06,0.865,0.0935,0.494,132.965,2lWryyIC2VLWlcJp9VsXQN,226467,4
+493,Slight Return,Moby,Studio,0.693,0.651,7,-14.153,1,0.0735,0.00476,0.867,0.087,0.0495,130.877,1Sbs3ABPMPlZqChfYiPc2i,269800,4
+494,Stream,Moby,Studio,0.591,0.0972,4,-20.962,0,0.0577,0.881,0.924,0.108,0.4,197.184,3VIgTCi4AfaouVMO3Vuulm,189133,4
+495,Next Is the E - Edit,Next Is the E,Studio,0.578,0.983,7,-7.577,1,0.0353,0.0015,0.459,0.375,0.657,137.007,42WTxcc4ZeIfR0vgNqcP9a,273000,4
+496,Next Is the E - Victory Mix,Next Is the E,Studio,0.502,0.911,2,-8.517,1,0.05,2.85e-05,0.435,0.146,0.231,147.024,3L29xjypuqXGc0u6XSb9wP,345000,4
+497,Next Is the E - Synthe Mix,Next Is the E,Studio,0.68,0.905,2,-8.084,1,0.0466,0.00107,0.937,0.0824,0.392,122.925,3VBu5kVxEEXXgjh133XNuD,420000,4
+498,Next Is the E - I Feel It,Next Is the E,Studio,0.596,0.977,7,-7.811,1,0.0387,0.00109,0.368,0.0908,0.629,136.964,34sexw77fyoNCuUiHbte32,359000,4
+499,Thousand,Next Is the E,Studio,0.206,0.892,11,-8.326,0,0.0565,0.000321,0.973,0.112,0.0494,126.791,5p2LNkxerTz3iMHVzhnC9z,266000,3
+500,Next Is the E - Cool WW Mix,Next Is the E,Studio,0.608,0.811,7,-10.911,1,0.0412,0.00124,0.857,0.152,0.203,134.974,6NrOTZwfILZhWpXgSWWvbx,214000,4
